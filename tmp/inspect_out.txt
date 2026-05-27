@@ -1,0 +1,24 @@
+﻿=== USERS ===
+  id=1  email=rajeev.sharma@mail.ch  name=Rajeev Sharma
+
+=== AUTO-APPLY CREDENTIALS ===
+  user_id=1  li_url=https://www.linkedin.com/in/rajeevsharma7/  li_user=rajeev.sharma@mail.ch  li_pass_set=True  email=rajeev.sharma@mail.ch  email_pass_set=True
+
+=== RECENT JOB APPLICATIONS ===
+  id=8  user=1  status=applied  has_cv=True  url=https://career.valora.com/en/job/5576/it-strategy-and-transformation-m
+  id=7  user=1  status=prepared  has_cv=True  url=
+  id=6  user=1  status=prepared  has_cv=True  url=
+  id=5  user=1  status=prepared  has_cv=True  url=
+  id=4  user=1  status=prepared  has_cv=False  url=
+
+=== LINKEDIN JOBS (sample) ===
+
+=== COMPANY PORTAL JOBS (non-LinkedIn) ===
+  id=1  title=Planejadora/Planejador de Manutenτπo  co=Syngenta Careers  url=https://jobs.syngenta.com/job/744000116706936
+  id=3  title=mySugr Digital Biomarker Data Scientist (m/f/d)  co=Roche Careers  url=https://careers.roche.com/global/en/job/202411-130546/mySugr-Digital-Biomarker-D
+  id=4  title=Head of Manufacturing  co=Roche Careers  url=https://careers.roche.com/global/en/job/202601-100524/Head-of-Manufacturing
+  id=5  title=Marketing Technologies Business Operations Lead  co=Roche Careers  url=https://careers.roche.com/global/en/job/202601-101070/Marketing-Technologies-Bus
+  id=7  title=Affiliate Head of Quality and Regulatory Affairs - Roche Diagnostics  co=Roche Careers  url=https://careers.roche.com/global/en/job/202602-103217/Affiliate-Head-of-Quality-
+  id=8  title=External Engagement Coordinator û Grants, Sponsorships and Donations Specialist  co=Roche Careers  url=https://careers.roche.com/global/en/job/202602-102833/External-Engagement-Coordi
+  id=9  title=Medical Copywriter  co=Roche Careers  url=https://careers.roche.com/global/en/job/202507-119329/Medical-Copywriter
+  id=10  title=AI Innovation Manager (BC+Hema)  co=Roche Careers  url=https://careers.roche.com/global/en/job/202512-132756/AI-Innovation-Manager-BC-H

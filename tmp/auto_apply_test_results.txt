@@ -1,0 +1,70 @@
+[22:08:00] ===  ============================================================
+[22:08:00] ===    AUTO-APPLY END-TO-END TEST SUITE
+[22:08:00] ===  ============================================================
+[22:08:00] [i]  Test mode    : all
+[22:08:00] [i]  Headless     : False
+[22:08:00] [i]  Start time   : 2026-03-27 22:08:00
+[22:08:00] [i]  Results file : C:\Users\rajeev\career_revolution\tmp\auto_apply_test_results.txt
+[22:08:00] ===  ============================================================
+[22:08:00] ===    TEST 1: Credential Storage & Decryption
+[22:08:00] ===  ============================================================
+[22:08:00] [OK]  Found credential record for user_id=1
+[22:08:00] [i]    LinkedIn URL      : https://www.linkedin.com/in/rajeevsharma7/
+[22:08:00] [i]    LinkedIn Username : rajeev.sharma@mail.ch
+[22:08:00] [i]    Email Username    : rajeev.sharma@mail.ch
+[22:08:00] [OK]    LinkedIn Password : *********  (decrypted OK, length=9)
+[22:08:00] [OK]    Email Password    : **********  (decrypted OK, length=10)
+[22:08:00] [OK]  TEST 1 PASSED — credentials decrypted successfully
+[22:08:00] ===  ============================================================
+[22:08:00] ===    TEST 2: LinkedIn Easy Apply
+[22:08:00] ===  ============================================================
+[22:08:00] [i]  Application URL  : https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4388518670
+[22:08:00] [i]  CV Path          : uploads\1\applications\3\Tailored_CV_20260327_193804.pdf
+[22:08:00] [i]  Current Status   : prepared
+[22:08:00] [>>]  Launching Playwright browser...
+[22:08:02] [>>]  Navigating to LinkedIn login...
+[22:08:05] [>>]  Entering LinkedIn email...
+[22:08:09] [>>]  Entering LinkedIn password...
+[22:08:11] [>>]  Clicking Sign In...
+[22:08:13] [i]  Post-login URL: https://www.linkedin.com/login
+[22:08:13] [FAIL]  Login appears to have failed (still on login page). Check credentials.
+[22:08:13] ===  ============================================================
+[22:08:13] ===    TEST 3: Company Portal — Novartis (Workday) Account Exploration
+[22:08:13] ===  ============================================================
+[22:08:14] [i]  Target URL   : https://www.novartis.com/careers/career-search/job/details/req-10074784-clinical-sciences-associate-director
+[22:08:14] [i]  Company      : Novartis Switzerland Careers
+[22:08:14] [i]  Job Title    : Clinical Sciences Associate Director
+[22:08:14] [i]  CV Path      : uploads\1\applications\6\Tailored_CV_20260327_000118.pdf
+[22:08:14] [i]  Using email  : rajeev.sharma@mail.ch
+[22:08:14] [>>]  Launching Playwright browser...
+[22:08:15] [>>]  Navigating to: https://www.novartis.com/careers/career-search/job/details/req-10074784-clinical-sciences-associate-director
+[22:08:21] [i]  Current URL  : https://www.novartis.com/careers/career-search/job/details/req-10074784-clinical-sciences-associate-director
+[22:08:21] [i]  Page title   : Clinical Sciences Associate Director | Novartis
+[22:08:21] [i]  Landing page screenshot → tmp/company_portal_landing.png
+[22:08:21] [OK]  Detected ATS : Unknown/Custom
+[22:08:21] [>>]  Looking for Apply button...
+[22:08:46] [WARN]  No Apply button found. Job might be expired or require login first.
+[22:08:46] ===  ============================================================
+[22:08:46] ===    TEST 4: Intervention Loop — DB State Machine
+[22:08:46] ===  ============================================================
+[22:08:46] [i]  Original application status: prepared
+[22:08:46] [>>]  Simulating: agent sets status → requires_intervention...
+[22:08:46] [i]  Status after agent pause: requires_intervention
+[22:08:46] [i]  Intervention message: CAPTCHA detected — please solve it in the browser window, then click 'Resume Automation'.
+[22:08:46] [OK]  Intervention state written to DB — frontend polling would detect this!
+[22:08:46] [OK]  → showInterventionModal() would be called automatically in the browser
+[22:08:46] [>>]  Simulating: user clicks 'Resume Automation'...
+[22:08:46] [i]  Status after user resume: applying
+[22:08:46] [OK]  Resume intervention worked — agent would now continue automation
+[22:08:46] [>>]  Simulating: agent marks application as 'applied'...
+[22:08:46] [i]  Status restored to: prepared (test cleanup)
+[22:08:46] [OK]  TEST 4 PASSED — Full intervention state machine works correctly!
+[22:08:46] ===  ============================================================
+[22:08:46] ===    SUMMARY
+[22:08:46] ===  ============================================================
+[22:08:46] [OK]    credentials          : PASSED
+[22:08:46] [WARN]    linkedin             : WARN (None)
+[22:08:46] [WARN]    company_portal       : WARN (ats_detected_unknown/custom)
+[22:08:46] [OK]    intervention         : PASSED
+[22:08:46] [WARN]  Some tests need attention (see WARN/FAIL lines above).
+[22:08:46] [i]  End time: 2026-03-27 22:08:46

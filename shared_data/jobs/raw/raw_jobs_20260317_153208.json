@@ -1,0 +1,338 @@
+[
+  {
+    "id": "job_linkedin_20260317_000",
+    "title": "IT Business Partner",
+    "company": "UBS",
+    "location": "Geneva, Switzerland",
+    "description": "Exciting opportunity for a IT Business Partner role at UBS.",
+    "url": "https://example.com/jobs/it-business-partner-2526",
+    "source": "linkedin",
+    "posted_date": "2026-03-06T15:32:08.436961",
+    "skills_required": [
+      "business intelligence",
+      "financial reporting",
+      "project management",
+      "communication"
+    ],
+    "experience_required": 7,
+    "salary_range": [
+      150000,
+      190000
+    ],
+    "remote_possible": false,
+    "relevance_score": 0.0,
+    "match_details": {}
+  },
+  {
+    "id": "job_linkedin_20260317_001",
+    "title": "Innovation Director",
+    "company": "Global Consulting Firm",
+    "location": "Zurich, Switzerland",
+    "description": "Exciting opportunity for a Innovation Director role at Global Consulting Firm.",
+    "url": "https://example.com/jobs/innovation-director-4092",
+    "source": "linkedin",
+    "posted_date": "2026-02-24T15:32:08.437003",
+    "skills_required": [
+      "digital transformation",
+      "change management",
+      "agile",
+      "stakeholder management"
+    ],
+    "experience_required": 8,
+    "salary_range": [
+      160000,
+      200000
+    ],
+    "remote_possible": true,
+    "relevance_score": 0.0,
+    "match_details": {}
+  },
+  {
+    "id": "job_linkedin_20260317_002",
+    "title": "Delivery Manager",
+    "company": "Management Consulting",
+    "location": "Remote",
+    "description": "Exciting opportunity for a Delivery Manager role at Management Consulting.",
+    "url": "https://example.com/jobs/delivery-manager-8857",
+    "source": "linkedin",
+    "posted_date": "2026-02-26T15:32:08.437020",
+    "skills_required": [
+      "project management",
+      "risk management",
+      "budget management",
+      "vendor management"
+    ],
+    "experience_required": 8,
+    "salary_range": [
+      140000,
+      180000
+    ],
+    "remote_possible": true,
+    "relevance_score": 0.0,
+    "match_details": {}
+  },
+  {
+    "id": "job_linkedin_20260317_003",
+    "title": "Operations Manager",
+    "company": "IT Services Provider",
+    "location": "Basel, Switzerland",
+    "description": "Exciting opportunity for a Operations Manager role at IT Services Provider.",
+    "url": "https://example.com/jobs/operations-manager-6098",
+    "source": "linkedin",
+    "posted_date": "2026-02-21T15:32:08.437034",
+    "skills_required": [
+      "service delivery",
+      "client management",
+      "sla management",
+      "process improvement"
+    ],
+    "experience_required": 6,
+    "salary_range": [
+      130000,
+      170000
+    ],
+    "remote_possible": false,
+    "relevance_score": 0.0,
+    "match_details": {}
+  },
+  {
+    "id": "job_indeed_20260317_001",
+    "title": "Digital Lead",
+    "company": "Digital Agency",
+    "location": "Zurich, Switzerland",
+    "description": "Exciting opportunity for a Digital Lead role at Digital Agency.",
+    "url": "https://example.com/jobs/digital-lead-3139",
+    "source": "indeed",
+    "posted_date": "2026-03-07T15:32:08.437194",
+    "skills_required": [
+      "digital transformation",
+      "change management",
+      "agile",
+      "stakeholder management"
+    ],
+    "experience_required": 8,
+    "salary_range": [
+      160000,
+      200000
+    ],
+    "remote_possible": true,
+    "relevance_score": 0.0,
+    "match_details": {}
+  },
+  {
+    "id": "job_indeed_20260317_003",
+    "title": "Client Delivery Manager",
+    "company": "IT Services Provider",
+    "location": "Basel, Switzerland",
+    "description": "Exciting opportunity for a Client Delivery Manager role at IT Services Provider.",
+    "url": "https://example.com/jobs/client-delivery-manager-1397",
+    "source": "indeed",
+    "posted_date": "2026-03-14T15:32:08.437230",
+    "skills_required": [
+      "service delivery",
+      "client management",
+      "sla management",
+      "process improvement"
+    ],
+    "experience_required": 6,
+    "salary_range": [
+      130000,
+      170000
+    ],
+    "remote_possible": false,
+    "relevance_score": 0.0,
+    "match_details": {}
+  },
+  {
+    "id": "job_indeed_20260317_005",
+    "title": "Innovation Director",
+    "company": "Digital Agency",
+    "location": "Zurich, Switzerland",
+    "description": "Exciting opportunity for a Innovation Director role at Digital Agency.",
+    "url": "https://example.com/jobs/innovation-director-4297",
+    "source": "indeed",
+    "posted_date": "2026-03-01T15:32:08.437262",
+    "skills_required": [
+      "digital transformation",
+      "change management",
+      "agile",
+      "stakeholder management"
+    ],
+    "experience_required": 8,
+    "salary_range": [
+      160000,
+      200000
+    ],
+    "remote_possible": true,
+    "relevance_score": 0.0,
+    "match_details": {}
+  },
+  {
+    "id": "job_indeed_20260317_006",
+    "title": "Head of IT",
+    "company": "Merck",
+    "location": "Basel, Switzerland",
+    "description": "Exciting opportunity for a Head of IT role at Merck.",
+    "url": "https://example.com/jobs/head-of-it-1915",
+    "source": "indeed",
+    "posted_date": "2026-03-03T15:32:08.437278",
+    "skills_required": [
+      "project management",
+      "strategic planning",
+      "team leadership",
+      "regulatory compliance"
+    ],
+    "experience_required": 10,
+    "salary_range": [
+      180000,
+      220000
+    ],
+    "remote_possible": false,
+    "relevance_score": 0.0,
+    "match_details": {}
+  },
+  {
+    "id": "job_indeed_20260317_007",
+    "title": "Transformation Manager",
+    "company": "Digital Agency",
+    "location": "Zurich, Switzerland",
+    "description": "Exciting opportunity for a Transformation Manager role at Digital Agency.",
+    "url": "https://example.com/jobs/transformation-manager-5864",
+    "source": "indeed",
+    "posted_date": "2026-03-06T15:32:08.437294",
+    "skills_required": [
+      "digital transformation",
+      "change management",
+      "agile",
+      "stakeholder management"
+    ],
+    "experience_required": 8,
+    "salary_range": [
+      160000,
+      200000
+    ],
+    "remote_possible": true,
+    "relevance_score": 0.0,
+    "match_details": {}
+  },
+  {
+    "id": "job_glassdoor_20260317_000",
+    "title": "IT Director",
+    "company": "AstraZeneca",
+    "location": "Basel, Switzerland",
+    "description": "Exciting opportunity for a IT Director role at AstraZeneca.",
+    "url": "https://example.com/jobs/it-director-9001",
+    "source": "glassdoor",
+    "posted_date": "2026-02-18T15:32:08.437464",
+    "skills_required": [
+      "project management",
+      "strategic planning",
+      "team leadership",
+      "regulatory compliance"
+    ],
+    "experience_required": 10,
+    "salary_range": [
+      180000,
+      220000
+    ],
+    "remote_possible": false,
+    "relevance_score": 0.0,
+    "match_details": {}
+  },
+  {
+    "id": "job_glassdoor_20260317_001",
+    "title": "Technology Director",
+    "company": "AstraZeneca",
+    "location": "Basel, Switzerland",
+    "description": "Exciting opportunity for a Technology Director role at AstraZeneca.",
+    "url": "https://example.com/jobs/technology-director-3345",
+    "source": "glassdoor",
+    "posted_date": "2026-03-12T15:32:08.437493",
+    "skills_required": [
+      "project management",
+      "strategic planning",
+      "team leadership",
+      "regulatory compliance"
+    ],
+    "experience_required": 10,
+    "salary_range": [
+      180000,
+      220000
+    ],
+    "remote_possible": false,
+    "relevance_score": 0.0,
+    "match_details": {}
+  },
+  {
+    "id": "job_glassdoor_20260317_004",
+    "title": "CIO",
+    "company": "AstraZeneca",
+    "location": "Basel, Switzerland",
+    "description": "Exciting opportunity for a CIO role at AstraZeneca.",
+    "url": "https://example.com/jobs/cio-8111",
+    "source": "glassdoor",
+    "posted_date": "2026-03-11T15:32:08.437544",
+    "skills_required": [
+      "project management",
+      "strategic planning",
+      "team leadership",
+      "regulatory compliance"
+    ],
+    "experience_required": 10,
+    "salary_range": [
+      180000,
+      220000
+    ],
+    "remote_possible": false,
+    "relevance_score": 0.0,
+    "match_details": {}
+  },
+  {
+    "id": "job_company_careers_20260317_000",
+    "title": "Service Manager",
+    "company": "IT Services Provider",
+    "location": "Basel, Switzerland",
+    "description": "Exciting opportunity for a Service Manager role at IT Services Provider.",
+    "url": "https://example.com/jobs/service-manager-6705",
+    "source": "company_careers",
+    "posted_date": "2026-03-16T15:32:08.437726",
+    "skills_required": [
+      "service delivery",
+      "client management",
+      "sla management",
+      "process improvement"
+    ],
+    "experience_required": 6,
+    "salary_range": [
+      130000,
+      170000
+    ],
+    "remote_possible": false,
+    "relevance_score": 0.0,
+    "match_details": {}
+  },
+  {
+    "id": "job_company_careers_20260317_002",
+    "title": "Technology Business Partner",
+    "company": "UBS",
+    "location": "Geneva, Switzerland",
+    "description": "Exciting opportunity for a Technology Business Partner role at UBS.",
+    "url": "https://example.com/jobs/technology-business-partner-9291",
+    "source": "company_careers",
+    "posted_date": "2026-02-26T15:32:08.437781",
+    "skills_required": [
+      "business intelligence",
+      "financial reporting",
+      "project management",
+      "communication"
+    ],
+    "experience_required": 7,
+    "salary_range": [
+      150000,
+      190000
+    ],
+    "remote_possible": false,
+    "relevance_score": 0.0,
+    "match_details": {}
+  }
+]

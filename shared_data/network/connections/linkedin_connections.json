@@ -1,0 +1,62 @@
+[
+  {
+    "id": "conn_001",
+    "name": "Dr. Michael Schmidt",
+    "title": "CTO - Major Pharma",
+    "company": "Major Pharmaceutical Company",
+    "industry": "pharma_it",
+    "connection_strength": "strong",
+    "last_contact": "2026-01-27T23:46:58.580642",
+    "decision_maker": true,
+    "budget_owner": true,
+    "recommended_action": "Schedule catch-up meeting"
+  },
+  {
+    "id": "conn_002",
+    "name": "Sarah Johnson",
+    "title": "Head of Digital Transformation",
+    "company": "Global Consulting Firm",
+    "industry": "digital_transformation",
+    "connection_strength": "medium",
+    "last_contact": "2025-12-28T23:46:58.580669",
+    "decision_maker": true,
+    "budget_owner": false,
+    "recommended_action": "Share recent project insights"
+  },
+  {
+    "id": "conn_003",
+    "name": "Robert Chen",
+    "title": "IT Director - Banking",
+    "company": "Swiss Financial Institution",
+    "industry": "finance_it",
+    "connection_strength": "weak",
+    "last_contact": "2025-10-29T23:46:58.580681",
+    "decision_maker": true,
+    "budget_owner": true,
+    "recommended_action": "Reconnect with industry update"
+  },
+  {
+    "id": "conn_004",
+    "name": "Anna Müller",
+    "title": "VP IT Services",
+    "company": "IT Services Provider",
+    "industry": "it_services",
+    "connection_strength": "medium",
+    "last_contact": "2026-01-12T23:46:58.580690",
+    "decision_maker": true,
+    "budget_owner": true,
+    "recommended_action": "Discuss potential collaboration"
+  },
+  {
+    "id": "conn_005",
+    "name": "David Wilson",
+    "title": "Senior Partner",
+    "company": "Management Consulting",
+    "industry": "consulting",
+    "connection_strength": "strong",
+    "last_contact": "2026-02-11T23:46:58.580698",
+    "decision_maker": true,
+    "budget_owner": true,
+    "recommended_action": "Continue regular check-ins"
+  }
+]

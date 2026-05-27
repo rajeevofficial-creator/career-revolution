@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - {{ name }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #333;
+            --secondary-color: #666;
+            --accent-bg: #e9e9e9;
+            --sidebar-width: 30%;
+            --font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        @page {
+            size: A4;
+            margin: 0;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: var(--font-family);
+            color: var(--primary-color);
+            line-height: 1.5;
+            background: white;
+        }
+
+        .container {
+            display: flex;
+            min-height: 100vh;
+        }
+
+        /* Sidebar Styling */
+        .sidebar {
+            width: var(--sidebar-width);
+            background-color: #f7f7f7;
+            padding: 40px 20px;
+            display: flex;
+            flex-direction: column;
+            border-left: 1px solid #ddd;
+        }
+
+        .profile-photo {
+            width: 100%;
+            aspect-ratio: 1;
+            background-color: #ddd;
+            margin-bottom: 30px;
+            overflow: hidden;
+            border-radius: 4px;
+        }
+        
+        .profile-photo img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .contact-info {
+            margin-bottom: 40px;
+        }
+
+        .contact-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            font-size: 13px;
+        }
+
+        .contact-icon {
+            width: 20px;
+            margin-right: 15px;
+            text-align: center;
+        }
+
+        .sidebar-section {
+            margin-bottom: 30px;
+        }
+
+        .sidebar-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+            text-transform: uppercase;
+            border-bottom: 2px solid #333;
+            margin-bottom: 15px;
+            padding-bottom: 5px;
+        }
+
+        .sidebar-item {
+            font-size: 13px;
+            margin-bottom: 10px;
+        }
+
+        .lang-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .dots {
+            display: flex;
+        }
+
+        .dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background-color: #ddd;
+            margin-left: 5px;
+        }
+
+        .dot.filled {
+            background-color: #555;
+        }
+
+        /* Main Content Styling */
+        .main-content {
+            flex: 1;
+            padding: 60px 40px;
+        }
+
+        header {
+            margin-bottom: 40px;
+        }
+
+        .name {
+            font-size: 42px;
+            font-weight: bold;
+            margin: 0;
+            line-height: 1;
+        }
+
+        .tagline {
+            font-size: 18px;
+            color: var(--secondary-color);
+            margin-top: 10px;
+        }
+
+        .expertise-box {
+            background-color: var(--accent-bg);
+            padding: 20px 30px;
+            margin-bottom: 40px;
+            position: relative;
+        }
+
+        .expertise-box::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: -20px;
+            width: 40px;
+            height: 100%;
+            background-color: var(--accent-bg);
+            transform: skewX(-15deg);
+            z-index: -1;
+        }
+
+        .expertise-title {
+            font-size: 20px;
+            font-weight: bold;
+            text-transform: uppercase;
+            margin-bottom: 15px;
+        }
+
+        .section-title {
+            font-size: 22px;
+            font-weight: bold;
+            text-transform: uppercase;
+            border-bottom: 2px solid #ddd;
+            margin: 40px 0 20px 0;
+            padding-bottom: 10px;
+        }
+
+        .experience-item {
+            margin-bottom: 30px;
+            display: grid;
+            grid-template-columns: 120px 1fr;
+            gap: 20px;
+        }
+
+        .exp-dates {
+            font-weight: bold;
+            color: #555;
+            font-size: 14px;
+        }
+
+        .exp-details {
+            font-size: 14px;
+        }
+
+        .exp-role {
+            font-weight: bold;
+            font-size: 16px;
+            margin-bottom: 2px;
+        }
+
+        .exp-company {
+            color: var(--secondary-color);
+            margin-bottom: 8px;
+        }
+
+        .exp-bullets {
+            margin: 0;
+            padding-left: 20px;
+        }
+
+        .exp-bullets li {
+            margin-bottom: 5px;
+        }
+
+        .skill-list {
+            list-style: disc;
+            padding-left: 20px;
+            margin: 0;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Main Content (Left) -->
+        <div class="main-content">
+            <header>
+                <div class="name">{{ name }}</div>
+                <div class="tagline">{{ tagline }}</div>
+            </header>
+
+            <div class="expertise-box">
+                <div class="expertise-title">EXPERTISE</div>
+                <div style="font-size: 14px;">
+                    {{ expertise_summary }}
+                </div>
+            </div>
+
+            <div class="section-title">PROFESSIONAL EXPERIENCE</div>
+            
+            {% for exp in experiences %}
+            <div class="experience-item">
+                <div class="exp-dates">{{ exp.dates }}</div>
+                <div class="exp-details">
+                    <div class="exp-role">{{ exp.role }}</div>
+                    <div class="exp-company">{{ exp.company }}</div>
+                    <ul class="exp-bullets">
+                        {% for bullet in exp.bullets %}
+                        <li>{{ bullet }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            {% endfor %}
+
+            <div class="section-title">EDUCATION</div>
+            {% for edu in education %}
+            <div class="experience-item" style="margin-bottom: 15px;">
+                <div class="exp-dates">{{ edu.year }}</div>
+                <div class="exp-details">
+                    <div class="exp-role">{{ edu.degree }}</div>
+                    <div class="exp-company">{{ edu.institution }}</div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <!-- Sidebar (Right) -->
+        <div class="sidebar">
+            <div class="profile-photo">
+                {% if profile_picture_url %}
+                <img src="{{ profile_picture_url }}" alt="Profile">
+                {% endif %}
+            </div>
+
+            <div class="contact-info">
+                <div class="contact-item">
+                    <span class="contact-icon">📍</span>
+                    <span>{{ location }}</span>
+                </div>
+                <div class="contact-item">
+                    <span class="contact-icon">📞</span>
+                    <span>{{ phone }}</span>
+                </div>
+                <div class="contact-item">
+                    <span class="contact-icon">✉️</span>
+                    <span>{{ email }}</span>
+                </div>
+                <div class="contact-item">
+                    <span class="contact-icon">🔗</span>
+                    <span><a href="{{ linkedin_url }}" style="color: inherit; text-decoration: none;">LinkedIn</a></span>
+                </div>
+            </div>
+
+            <div class="sidebar-section">
+                <div class="sidebar-title">PERSONAL</div>
+                <div class="sidebar-item"><strong>Date of birth:</strong> {{ dob }}</div>
+                <div class="sidebar-item"><strong>Nationality:</strong> {{ nationality }}</div>
+                <div class="sidebar-item"><strong>Marital status:</strong> {{ marital_status }}</div>
+                <div class="sidebar-item"><strong>Work Authorization:</strong> {{ work_auth }}</div>
+            </div>
+
+            <div class="sidebar-section">
+                <div class="sidebar-title">LANGUAGES</div>
+                {% for lang in languages %}
+                <div class="sidebar-item lang-item">
+                    <span>{{ lang.name }}</span>
+                    <div class="dots">
+                        {% for i in range(5) %}
+                        <div class="dot {% if i < lang.level %}filled{% endif %}"></div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+
+            <div class="sidebar-section">
+                <div class="sidebar-title">IT-SKILLS</div>
+                <div class="sidebar-item" style="font-size: 13px;">
+                    {{ it_skills | join(', ') }}
+                </div>
+            </div>
+
+            <div class="sidebar-section">
+                <div class="sidebar-title">CERTIFICATIONS</div>
+                <ul style="font-size: 11px; padding-left: 15px; margin: 0;">
+                    {% for cert in certifications %}
+                    <li style="margin-bottom: 5px;">{{ cert }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div class="sidebar-section">
+                <div class="sidebar-title">SKILLS / STRENGTHS</div>
+                <ul class="skill-list" style="font-size: 12px; padding-left: 15px;">
+                    {% for skill in strengths %}
+                    <li>{{ skill }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

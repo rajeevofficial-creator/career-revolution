@@ -1,0 +1,475 @@
+{
+  "high_priority": [
+    {
+      "id": "job_indeed_20260226_003",
+      "title": "IT Director",
+      "company": "Pfizer",
+      "location": "Basel, Switzerland",
+      "relevance_score": 100.0,
+      "url": "https://example.com/jobs/it-director-2888",
+      "match_details": {
+        "title_match": 1.0,
+        "location_match": 1.0,
+        "industry_match": 1.0,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Title alignment",
+          "Location preference",
+          "Industry experience",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_glassdoor_20260226_000",
+      "title": "IT Director",
+      "company": "GlaxoSmithKline",
+      "location": "Basel, Switzerland",
+      "relevance_score": 100.0,
+      "url": "https://example.com/jobs/it-director-9098",
+      "match_details": {
+        "title_match": 1.0,
+        "location_match": 1.0,
+        "industry_match": 1.0,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Title alignment",
+          "Location preference",
+          "Industry experience",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_indeed_20260226_004",
+      "title": "IT Business Partner",
+      "company": "Julius Bär",
+      "location": "Geneva, Switzerland",
+      "relevance_score": 94.00000000000001,
+      "url": "https://example.com/jobs/it-business-partner-2223",
+      "match_details": {
+        "title_match": 1.0,
+        "location_match": 0.8,
+        "industry_match": 0.9,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Title alignment",
+          "Industry experience",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_glassdoor_20260226_002",
+      "title": "IT Business Partner",
+      "company": "Zurich Insurance",
+      "location": "Geneva, Switzerland",
+      "relevance_score": 94.00000000000001,
+      "url": "https://example.com/jobs/it-business-partner-3683",
+      "match_details": {
+        "title_match": 1.0,
+        "location_match": 0.8,
+        "industry_match": 0.9,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Title alignment",
+          "Industry experience",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_company_careers_20260226_004",
+      "title": "IT Business Partner",
+      "company": "Pictet",
+      "location": "Geneva, Switzerland",
+      "relevance_score": 94.00000000000001,
+      "url": "https://example.com/jobs/it-business-partner-8517",
+      "match_details": {
+        "title_match": 1.0,
+        "location_match": 0.8,
+        "industry_match": 0.9,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Title alignment",
+          "Industry experience",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_recruitment_agency_20260226_001",
+      "title": "Technology Director",
+      "company": "Merck",
+      "location": "Basel, Switzerland",
+      "relevance_score": 92.5,
+      "url": "https://example.com/jobs/technology-director-6376",
+      "match_details": {
+        "title_match": 0.7,
+        "location_match": 1.0,
+        "industry_match": 1.0,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Location preference",
+          "Industry experience",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_linkedin_20260226_001",
+      "title": "IT Relationship Manager",
+      "company": "Banque Cantonale",
+      "location": "Geneva, Switzerland",
+      "relevance_score": 86.5,
+      "url": "https://example.com/jobs/it-relationship-manager-2621",
+      "match_details": {
+        "title_match": 0.7,
+        "location_match": 0.8,
+        "industry_match": 0.9,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Industry experience",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_recruitment_agency_20260226_003",
+      "title": "Technology Business Partner",
+      "company": "Banque Cantonale",
+      "location": "Geneva, Switzerland",
+      "relevance_score": 81.50000000000001,
+      "url": "https://example.com/jobs/technology-business-partner-6473",
+      "match_details": {
+        "title_match": 0.5,
+        "location_match": 0.8,
+        "industry_match": 0.9,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Industry experience",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_linkedin_20260226_003",
+      "title": "CIO",
+      "company": "AbbVie",
+      "location": "Basel, Switzerland",
+      "relevance_score": 80.0,
+      "url": "https://example.com/jobs/cio-1474",
+      "match_details": {
+        "title_match": 0.2,
+        "location_match": 1.0,
+        "industry_match": 1.0,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Location preference",
+          "Industry experience",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_glassdoor_20260226_001",
+      "title": "CIO",
+      "company": "GlaxoSmithKline",
+      "location": "Basel, Switzerland",
+      "relevance_score": 80.0,
+      "url": "https://example.com/jobs/cio-5298",
+      "match_details": {
+        "title_match": 0.2,
+        "location_match": 1.0,
+        "industry_match": 1.0,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Location preference",
+          "Industry experience",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_recruitment_agency_20260226_004",
+      "title": "CIO",
+      "company": "Merck",
+      "location": "Basel, Switzerland",
+      "relevance_score": 80.0,
+      "url": "https://example.com/jobs/cio-4871",
+      "match_details": {
+        "title_match": 0.2,
+        "location_match": 1.0,
+        "industry_match": 1.0,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Location preference",
+          "Industry experience",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    }
+  ],
+  "medium_priority": [
+    {
+      "id": "job_linkedin_20260226_005",
+      "title": "Digital Lead",
+      "company": "Tech Company",
+      "location": "Zurich, Switzerland",
+      "relevance_score": 79.5,
+      "url": "https://example.com/jobs/digital-lead-1835",
+      "match_details": {
+        "title_match": 0.7,
+        "location_match": 0.8,
+        "industry_match": 0.8,
+        "experience_match": 1.0,
+        "skills_match": 0.75,
+        "remote_friendly": true,
+        "salary_indication": "High",
+        "strengths": [
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_glassdoor_20260226_003",
+      "title": "Digital Lead",
+      "company": "Global Consulting Firm",
+      "location": "Zurich, Switzerland",
+      "relevance_score": 79.5,
+      "url": "https://example.com/jobs/digital-lead-3555",
+      "match_details": {
+        "title_match": 0.7,
+        "location_match": 0.8,
+        "industry_match": 0.8,
+        "experience_match": 1.0,
+        "skills_match": 0.75,
+        "remote_friendly": true,
+        "salary_indication": "High",
+        "strengths": [
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_company_careers_20260226_001",
+      "title": "Transformation Manager",
+      "company": "Digital Agency",
+      "location": "Zurich, Switzerland",
+      "relevance_score": 79.5,
+      "url": "https://example.com/jobs/transformation-manager-5984",
+      "match_details": {
+        "title_match": 0.7,
+        "location_match": 0.8,
+        "industry_match": 0.8,
+        "experience_match": 1.0,
+        "skills_match": 0.75,
+        "remote_friendly": true,
+        "salary_indication": "High",
+        "strengths": [
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_recruitment_agency_20260226_000",
+      "title": "Transformation Manager",
+      "company": "Global Consulting Firm",
+      "location": "Zurich, Switzerland",
+      "relevance_score": 79.5,
+      "url": "https://example.com/jobs/transformation-manager-8394",
+      "match_details": {
+        "title_match": 0.7,
+        "location_match": 0.8,
+        "industry_match": 0.8,
+        "experience_match": 1.0,
+        "skills_match": 0.75,
+        "remote_friendly": true,
+        "salary_indication": "High",
+        "strengths": [
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_linkedin_20260226_000",
+      "title": "Project Director",
+      "company": "Management Consulting",
+      "location": "Remote",
+      "relevance_score": 78.49999999999999,
+      "url": "https://example.com/jobs/project-director-7973",
+      "match_details": {
+        "title_match": 0.7,
+        "location_match": 0.9,
+        "industry_match": 0.4,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": true,
+        "salary_indication": "High",
+        "strengths": [
+          "Location preference",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_linkedin_20260226_002",
+      "title": "Program Manager",
+      "company": "Management Consulting",
+      "location": "Remote",
+      "relevance_score": 78.49999999999999,
+      "url": "https://example.com/jobs/program-manager-8435",
+      "match_details": {
+        "title_match": 0.7,
+        "location_match": 0.9,
+        "industry_match": 0.4,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": true,
+        "salary_indication": "High",
+        "strengths": [
+          "Location preference",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_company_careers_20260226_005",
+      "title": "Delivery Manager",
+      "company": "Management Consulting",
+      "location": "Remote",
+      "relevance_score": 78.49999999999999,
+      "url": "https://example.com/jobs/delivery-manager-3130",
+      "match_details": {
+        "title_match": 0.7,
+        "location_match": 0.9,
+        "industry_match": 0.4,
+        "experience_match": 1.0,
+        "skills_match": 1.0,
+        "remote_friendly": true,
+        "salary_indication": "High",
+        "strengths": [
+          "Location preference",
+          "Experience level",
+          "Skills match"
+        ]
+      }
+    },
+    {
+      "id": "job_indeed_20260226_000",
+      "title": "Operations Manager",
+      "company": "IT Services Provider",
+      "location": "Basel, Switzerland",
+      "relevance_score": 65.5,
+      "url": "https://example.com/jobs/operations-manager-9333",
+      "match_details": {
+        "title_match": 0.7,
+        "location_match": 1.0,
+        "industry_match": 0.4,
+        "experience_match": 1.0,
+        "skills_match": 0.25,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Location preference",
+          "Experience level"
+        ]
+      }
+    },
+    {
+      "id": "job_indeed_20260226_002",
+      "title": "Service Manager",
+      "company": "IT Services Provider",
+      "location": "Basel, Switzerland",
+      "relevance_score": 65.5,
+      "url": "https://example.com/jobs/service-manager-8499",
+      "match_details": {
+        "title_match": 0.7,
+        "location_match": 1.0,
+        "industry_match": 0.4,
+        "experience_match": 1.0,
+        "skills_match": 0.25,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Location preference",
+          "Experience level"
+        ]
+      }
+    },
+    {
+      "id": "job_company_careers_20260226_000",
+      "title": "Client Delivery Manager",
+      "company": "IT Services Provider",
+      "location": "Basel, Switzerland",
+      "relevance_score": 65.5,
+      "url": "https://example.com/jobs/client-delivery-manager-8419",
+      "match_details": {
+        "title_match": 0.7,
+        "location_match": 1.0,
+        "industry_match": 0.4,
+        "experience_match": 1.0,
+        "skills_match": 0.25,
+        "remote_friendly": false,
+        "salary_indication": "High",
+        "strengths": [
+          "Location preference",
+          "Experience level"
+        ]
+      }
+    }
+  ],
+  "low_priority": [],
+  "analysis_date": "2026-02-26T23:58:01.914199",
+  "total_jobs": 21
+}

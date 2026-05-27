@@ -1,0 +1,126 @@
+{
+  "summary": {
+    "total_documents_analyzed": 302,
+    "total_skills_identified": 147,
+    "years_experience": 15,
+    "highest_education": "master",
+    "certification_count": 12,
+    "primary_industry": "pharma_it",
+    "analysis_date": "2026-02-26T23:46:58.577938"
+  },
+  "skills": {
+    "total_count": 147,
+    "by_type": {
+      "technical": 45,
+      "management": 38,
+      "industry_specific": 42,
+      "soft_skills": 22
+    },
+    "detailed": {
+      "technical": [
+        "Python",
+        "SQL",
+        "Cloud Computing",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "DevOps",
+        "CI/CD",
+        "Linux",
+        "Data Analysis",
+        "Big Data",
+        "Cybersecurity",
+        "Networking",
+        "IT Infrastructure",
+        "System Architecture",
+        "API Development"
+      ],
+      "management": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Stakeholder Management",
+        "Change Management",
+        "Risk Management",
+        "Process Improvement",
+        "Vendor Management",
+        "Resource Planning",
+        "Performance Management",
+        "Coaching"
+      ],
+      "industry_specific": [
+        "GMP",
+        "GxP",
+        "Regulatory Compliance",
+        "Clinical Trials",
+        "Pharmacovigilance",
+        "Financial Reporting",
+        "Risk Assessment",
+        "Digital Transformation",
+        "IT Strategy",
+        "Business Intelligence",
+        "ERP",
+        "SAP",
+        "Oracle",
+        "SOX Compliance"
+      ],
+      "soft_skills": [
+        "Communication",
+        "Presentation",
+        "Negotiation",
+        "Problem Solving",
+        "Critical Thinking",
+        "Adaptability",
+        "Collaboration",
+        "Creativity",
+        "Time Management"
+      ]
+    }
+  },
+  "experience": {
+    "max_years": 15,
+    "avg_years": 12.5,
+    "min_years": 8,
+    "all_values": [
+      15,
+      12,
+      10,
+      8,
+      15
+    ]
+  },
+  "education": {
+    "highest_level": "master",
+    "all_levels": [
+      "master",
+      "bachelor"
+    ],
+    "count": 5
+  },
+  "certifications": {
+    "total_count": 12,
+    "unique_count": 8,
+    "by_type": {
+      "PMP Certification": 2,
+      "ITIL Certification": 2,
+      "CGEIT Certification": 1,
+      "AWS Certified Solutions Architect": 1,
+      "Azure Administrator": 1,
+      "Agile Scrum Master": 1,
+      "Six Sigma Green Belt": 1,
+      "ISO 27001 Lead Auditor": 1
+    }
+  },
+  "industries": {
+    "exposure": {
+      "pharma_it": 85,
+      "finance_it": 45,
+      "digital_transformation": 65,
+      "consulting": 30,
+      "it_services": 25
+    },
+    "primary": "pharma_it"
+  }
+}

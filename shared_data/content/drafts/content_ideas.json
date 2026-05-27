@@ -1,0 +1,35 @@
+[
+  {
+    "id": "idea_001",
+    "topic": "Digital Transformation in Pharma IT",
+    "key_points": [
+      "Regulatory challenges in digital transformation",
+      "Case study: Successful implementation",
+      "Best practices for IT leaders"
+    ],
+    "target_platform": "linkedin_article",
+    "status": "draft"
+  },
+  {
+    "id": "idea_002",
+    "topic": "Project Management in Remote Teams",
+    "key_points": [
+      "Tools for effective remote collaboration",
+      "Maintaining team engagement",
+      "Measuring productivity remotely"
+    ],
+    "target_platform": "youtube_script",
+    "status": "approved"
+  },
+  {
+    "id": "idea_003",
+    "topic": "Career Growth in IT Leadership",
+    "key_points": [
+      "Skills for future IT leaders",
+      "Building strategic influence",
+      "Navigating industry changes"
+    ],
+    "target_platform": "linkedin_article",
+    "status": "published"
+  }
+]

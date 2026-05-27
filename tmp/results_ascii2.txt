@@ -1,0 +1,28 @@
+[22:00:37] ===  ============================================================
+[22:00:37] ===    AUTO-APPLY END-TO-END TEST SUITE
+[22:00:37] ===  ============================================================
+[22:00:37] [i]  Test mode    : intervention
+[22:00:37] [i]  Headless     : False
+[22:00:37] [i]  Start time   : 2026-03-27 22:00:37
+[22:00:37] [i]  Results file : C:\Users\rajeev\career_revolution\tmp\auto_apply_test_results.txt
+[22:00:37] ===  ============================================================
+[22:00:37] ===    TEST 4: Intervention Loop ? DB State Machine
+[22:00:37] ===  ============================================================
+[22:00:37] [i]  Original application status: prepared
+[22:00:37] [>>]  Simulating: agent sets status ? requires_intervention...
+[22:00:37] [i]  Status after agent pause: requires_intervention
+[22:00:37] [i]  Intervention message: CAPTCHA detected ? please solve it in the browser window, then click 'Resume Automation'.
+[22:00:37] [OK]  Intervention state written to DB ? frontend polling would detect this!
+[22:00:37] [OK]  ? showInterventionModal() would be called automatically in the browser
+[22:00:37] [>>]  Simulating: user clicks 'Resume Automation'...
+[22:00:37] [i]  Status after user resume: applying
+[22:00:37] [OK]  Resume intervention worked ? agent would now continue automation
+[22:00:37] [>>]  Simulating: agent marks application as 'applied'...
+[22:00:37] [i]  Status restored to: prepared (test cleanup)
+[22:00:37] [OK]  TEST 4 PASSED ? Full intervention state machine works correctly!
+[22:00:37] ===  ============================================================
+[22:00:37] ===    SUMMARY
+[22:00:37] ===  ============================================================
+[22:00:37] [OK]    intervention         : PASSED
+[22:00:37] [OK]  All tests passed! Auto-Apply workflow is operational.
+[22:00:37] [i]  End time: 2026-03-27 22:00:37

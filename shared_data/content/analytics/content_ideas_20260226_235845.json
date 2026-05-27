@@ -1,0 +1,92 @@
+[
+  {
+    "id": "idea_a79ff801",
+    "topic": "The Future of Work: Technology Enablers",
+    "category": "Technology Trends & Best Practices",
+    "key_points": [
+      "Current challenges and opportunities",
+      "Best practices and lessons learned",
+      "Future trends and predictions",
+      "Actionable advice for practitioners",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "youtube_script",
+    "target_platform": "Professional Blog",
+    "created_at": "2026-02-26T23:58:45.489877"
+  },
+  {
+    "id": "idea_d574119f",
+    "topic": "Insights on Digital Workplace Transformation",
+    "category": "Digital Workplace Transformation",
+    "key_points": [
+      "Change management strategies",
+      "Technology selection criteria",
+      "Stakeholder engagement tactics",
+      "Success metrics and KPIs",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "youtube_script",
+    "target_platform": "LinkedIn",
+    "created_at": "2026-02-26T23:58:45.489931"
+  },
+  {
+    "id": "idea_0cfb2f4a",
+    "topic": "Success Stories: Digital Transformation in Clinical Trials",
+    "category": "Pharmaceutical IT & Digital Health",
+    "key_points": [
+      "Regulatory compliance considerations",
+      "Patient data security and privacy",
+      "Integration with existing systems",
+      "Measuring clinical outcomes",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "youtube_script",
+    "target_platform": "YouTube",
+    "created_at": "2026-02-26T23:58:45.489959"
+  },
+  {
+    "id": "idea_6aa9d4a4",
+    "topic": "Cloud Migration Strategies That Work",
+    "category": "Technology Trends & Best Practices",
+    "key_points": [
+      "Current challenges and opportunities",
+      "Best practices and lessons learned",
+      "Future trends and predictions",
+      "Actionable advice for practitioners",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "youtube_script",
+    "target_platform": "Professional Blog",
+    "created_at": "2026-02-26T23:58:45.489971"
+  },
+  {
+    "id": "idea_e5ab05a7",
+    "topic": "Insights on Project Management Success Stories",
+    "category": "Project Management Success Stories",
+    "key_points": [
+      "Current challenges and opportunities",
+      "Best practices and lessons learned",
+      "Future trends and predictions",
+      "Actionable advice for practitioners",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "blog_post",
+    "target_platform": "YouTube",
+    "created_at": "2026-02-26T23:58:45.489991"
+  },
+  {
+    "id": "idea_5a10d594",
+    "topic": "Insights on Industry Insights & Future Trends",
+    "category": "Industry Insights & Future Trends",
+    "key_points": [
+      "Current challenges and opportunities",
+      "Best practices and lessons learned",
+      "Future trends and predictions",
+      "Actionable advice for practitioners",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "blog_post",
+    "target_platform": "LinkedIn",
+    "created_at": "2026-02-26T23:58:45.490001"
+  }
+]

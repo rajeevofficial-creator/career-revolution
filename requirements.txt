@@ -1,0 +1,52 @@
+# Core Dependencies
+# python>=3.8
+fastapi>=0.104.1
+uvicorn>=0.24.0
+sqlalchemy>=2.0.23
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+python-multipart>=0.0.6
+python-dotenv>=1.0.0
+pydantic>=2.5.2
+pydantic-settings>=2.1.0
+email-validator>=2.0.0
+google-generativeai>=0.3.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Document Processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+pytesseract>=0.3.10
+Pillow>=10.0.0
+pdf2image>=1.16.3
+pycryptodome>=3.19.0
+markdown>=3.0.0
+
+# Web & APIs
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+schedule>=1.2.0
+
+# Data Storage & Serialization
+json5>=0.9.14
+
+# Development & Testing
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Optional (for enhanced features)
+# openai>=1.0.0  # For LLM integration
+# python-linkedin>=2.0.0  # For LinkedIn API
+
+# Browser Automation & Credential Security
+playwright>=1.40.0               # Browser automation for Auto-Apply Agent
+playwright-stealth>=2.0.2        # Mask automation fingerprints
+cryptography>=41.0.0             # Fernet symmetric encryption for credential storage
+
+# Note: After installing, run: playwright install chromium
+# Note: Some agents use simulated data for demonstration
+# Real API keys would be needed for production use

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "idea_d9380d94",
+    "topic": "The Future of Digital Health in Pharma",
+    "category": "Pharmaceutical IT & Digital Health",
+    "key_points": [
+      "Regulatory compliance considerations",
+      "Patient data security and privacy",
+      "Integration with existing systems",
+      "Measuring clinical outcomes",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "youtube_script",
+    "target_platform": "YouTube",
+    "created_at": "2026-02-26T23:59:14.859137"
+  },
+  {
+    "id": "idea_5a10d594",
+    "topic": "Insights on Industry Insights & Future Trends",
+    "category": "Industry Insights & Future Trends",
+    "key_points": [
+      "Current challenges and opportunities",
+      "Best practices and lessons learned",
+      "Future trends and predictions",
+      "Actionable advice for practitioners",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "linkedin_article",
+    "target_platform": "Professional Blog",
+    "created_at": "2026-02-26T23:59:14.859198"
+  },
+  {
+    "id": "idea_a79ff801",
+    "topic": "The Future of Work: Technology Enablers",
+    "category": "Technology Trends & Best Practices",
+    "key_points": [
+      "Current challenges and opportunities",
+      "Best practices and lessons learned",
+      "Future trends and predictions",
+      "Actionable advice for practitioners",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "blog_post",
+    "target_platform": "YouTube",
+    "created_at": "2026-02-26T23:59:14.859216"
+  },
+  {
+    "id": "idea_e5ab05a7",
+    "topic": "Insights on Project Management Success Stories",
+    "category": "Project Management Success Stories",
+    "key_points": [
+      "Current challenges and opportunities",
+      "Best practices and lessons learned",
+      "Future trends and predictions",
+      "Actionable advice for practitioners",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "linkedin_article",
+    "target_platform": "LinkedIn",
+    "created_at": "2026-02-26T23:59:14.859229"
+  },
+  {
+    "id": "idea_b2293e7e",
+    "topic": "Insights on Career Growth & Professional Development",
+    "category": "Career Growth & Professional Development",
+    "key_points": [
+      "Current challenges and opportunities",
+      "Best practices and lessons learned",
+      "Future trends and predictions",
+      "Actionable advice for practitioners",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "linkedin_article",
+    "target_platform": "YouTube",
+    "created_at": "2026-02-26T23:59:14.859241"
+  },
+  {
+    "id": "idea_d574119f",
+    "topic": "Insights on Digital Workplace Transformation",
+    "category": "Digital Workplace Transformation",
+    "key_points": [
+      "Change management strategies",
+      "Technology selection criteria",
+      "Stakeholder engagement tactics",
+      "Success metrics and KPIs",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "blog_post",
+    "target_platform": "LinkedIn",
+    "created_at": "2026-02-26T23:59:14.859262"
+  },
+  {
+    "id": "idea_0cfb2f4a",
+    "topic": "Success Stories: Digital Transformation in Clinical Trials",
+    "category": "Pharmaceutical IT & Digital Health",
+    "key_points": [
+      "Regulatory compliance considerations",
+      "Patient data security and privacy",
+      "Integration with existing systems",
+      "Measuring clinical outcomes",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "youtube_script",
+    "target_platform": "YouTube",
+    "created_at": "2026-02-26T23:59:14.859274"
+  }
+]

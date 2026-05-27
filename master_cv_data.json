@@ -1,0 +1,133 @@
+{
+    "personal_info": {
+        "name": "Rajeev Sharma",
+        "email": "Rajeev.sharma@mail.ch",
+        "phone": "+41 79 928 86 70",
+        "location": "Arisdörferstrasse 7, 414 Füllinsdorf, Switzerland",
+        "summary": "Passionate IT Manager focused on leveraging digital technologies to enable value-driven partnership between IT and Business. Proven track record delivering business excellence and transformational IT programs. Defined and consulted on global IT strategies, led multiple programs related to data insight, post-merger IT integrations, implementation of digital platforms (ServiceNow, SAP, Oracle, Salesforce, Magento Ecommerce, Loyalty programs), defined Architect for enterprise processes and financial maturity, managed global Vendors and Outsourcing contracts. Entrepreneurial mindset with exposure to multiple Industries (Retail, Pharmaceutical, Technology Consultation, Telecom and Automotive).",
+        "linkedin_url": "https://www.linkedin.com/in/rajeev-sharma/"
+    },
+    "skills": [
+        "Google AI studio", "RAG", "COT", "MCP", "Agentics working", "LangGraph", "HITL", "LLMOps", "Memory management",
+        "ServiceNow", "SAP", "Oracle", "Microsoft Power BI", "Python", "React native", "Flutter", "Java", "SQL", "NoSQL", "Mongo DB",
+        "Mobile & Web Development", "IT service management", "Agile (SCRUM) methodology", "Business relationship management",
+        "Leadership & team development", "Business case preparation", "Strategy design & execution", "Vendor negotiations & offshore development",
+        "Process consolidation and optimization", "Organizational change management", "Post-merger integrations",
+        "Training and people management", "ERP implementation"
+    ],
+    "experience": [
+        {
+            "title": "Product Owner & AI Product Architect",
+            "company": "Startup",
+            "start_date": "2025-01-01",
+            "end_date": "2026-01-01",
+            "description": "Product Vision & Execution: Defined the roadmap, data strategy and orchestrated the development of a multi-agent AI system capable of autonomous financial reasoning, moving from concept to MVP."
+        },
+        {
+            "title": "Program Manager – PMO Setup and SAP S/4 rollout PMO",
+            "company": "MSC Cruises (Infosys Consulting AG)",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "description": "Analyzed current IT governance setup and proposed an efficient PMO setup with application portfolio optimization approach with a synergy realization of 15% optimization over next 3 years. Defined governance frameworks and policies, redefined portfolios, Risk trackers, financial dashboards to enable continual improvements. SAP S/4 Hana ERP PMO for managing other consulting company and internal stakeholder for on time delivery of program."
+        },
+        {
+            "title": "Project Manager – Mergers, Divestitures & acquisitions approach and PMO approach",
+            "company": "Infosys Consulting AG",
+            "start_date": "2023-01-01",
+            "end_date": "2024-01-01",
+            "description": "Led merger acquisition and divestiture point of view, methodology and approach definitions with deliverables and artifacts. Contributed toward PMO services for the potential clients, detailing business review services and approach for PMO setup."
+        },
+        {
+            "title": "Product Owner – Global Supplier Portal",
+            "company": "British American Tobacco (Infosys Consulting AG)",
+            "start_date": "2022-01-01",
+            "end_date": "2023-01-01",
+            "description": "Strategized Product vision and fitment, Managed product features, detailed product backlog, coordinated sprints teams, managed stakeholder and multiple vendor landscape, enabled best User experience (UX), Leveraged Analytics and AI solution for best engagement of suppliers. Key platform leveraged were ServiceNow CRM, Celonis process mining along with AI based chat. Supplier Portal CSM https://www.batsupplier.com/csm/ for improving partnership with more than 13K Suppliers globally on procurement and financial topics. 300K + GBP efficiency per year."
+        },
+        {
+            "title": "Business Development & Product Owner",
+            "company": "Rasol Solutions – IT Consulting",
+            "start_date": "2019-01-01",
+            "end_date": "2022-01-01",
+            "description": "Product Owner for creating basic ERP + CRM + SM web application: Enabling small business and schools to have a structured data driven business management. Mobile & Web enabled curriculum delivery for education institutes during COVID. Lead generation, developing business plan, negotiate and manage vendors."
+        },
+        {
+            "title": "Head IT Governance– IT Finance management & Control",
+            "company": "Dufry AG (Avolta)",
+            "start_date": "2016-01-01",
+            "end_date": "2019-01-01",
+            "description": "Defined and implemented Global IT budgeting and forecasting process, responsible for global budget (Capex & Opex) approval and control. Provided IT services total cost of ownership transparency to management and Service Managers. Responsible for Capex spending prioritization & alignment with business priorities, ROI approach was established along with lifecycle cost of service. Established transparent Intercompany IT cost distribution improving P&L maturity, Audit readiness and business relationship. Enabled Contract lifecycle management, leading to nearly 800K USD saving due to wrong invoicing and breach of terms for one of the global contract. Represented IT for financial Audits and all financial and treasury applications scoping and RFP process."
+        },
+        {
+            "title": "Head IT Governance – IT Process Maturity",
+            "company": "Dufry AG (Avolta)",
+            "start_date": "2016-01-01",
+            "end_date": "2019-01-01",
+            "description": "Implemented practical and simplified IT governance aligned to industry best practice (ITIL, PMP, CGEIT, COBIT). Standardized Capex and Opex consumption process, improved transparency, reliability and business effectiveness. Established global PMO organization and trained PMs, support teams and vendors. Defined the SLA, OLA, KPIs in alignment with business priorities and ensured compliance from all Service Owners. Defined the Job roles and responsibilities for the IT organization along with the changes in Organization setup to ensure IT is effective partner to Business. Vendor and Contract management implemented to consolidate the global initiatives to gain economies of scale and scope. Accountable for global contracts. Enabled processes leveraging platform strategy at corporate level, Ensured smooth transition from manual processes to system and process driven processes. Real time Quantitative and periodic Qualitative tracking enabled for continual process improvements."
+        },
+        {
+            "title": "PMO – Post Mergers Integrations",
+            "company": "Dufry AG (Avolta)",
+            "start_date": "2014-01-01",
+            "end_date": "2018-01-01",
+            "description": "Program managed two post-merger IT integrations. WDFG (3.5Bn USD) & Nuance (1.5 Bn USD) group were acquired: CHF 120Mn IT Synergy realization in first year of integration, CHF 70Mn+ IT operational cost reduction in first year of integration, 40% reduction in global Vendors landscape with 15% cost reduction by vendor centralization and gaining economies of scale. Led PMO for 100 day post-merger plan and long term transition planning. Defined merger strategy and objectives, legal and regulatory compliance requirements, integration planning, roadmap, organization structure, financial and budgeting integrations, Cost synergy plan, talent management, retention plan, risk assessment and mitigation plan. Defined roadmap for Global applications landscape consolidation and infrastructure optimization planning. Application portfolio rationalization and detailed business analysis for selection of the right application such as ERP and other corporate applications such as HRIS, PoS, reporting etc. Managed Consulting partners from corporate and merged organizations along with key stakeholders to ensure synergies are clearly defined."
+        },
+        {
+            "title": "IT Service Manager – Enterprise Service Management – ServiceNow",
+            "company": "Dufry AG (Avolta)",
+            "start_date": "2014-01-01",
+            "end_date": "2016-01-01",
+            "description": "Product owner for Enterprise wide ServiceNow Platform implementation for Dufry group improved IT, HR and Finance department efficiency for Service management, Operations maturity along with financial transparency. Established business case for implementing ServiceNow platform and obtained endorsement from management for the first cloud application in the organization. Defined standardized processes and implemented the following in ServiceNow: ITSM (Incident, problem, change, release, request, vendor management, knowledge, assets and cost management), ITOM (Infrastructure, applications, service), ITBM (performance analytics, demand, resource, project and portfolio, ITAsset Manager, Risk Management-GRC). 30% reduction in IT operational spending by enabling consolidation of scale and scope. 20 Key processes automated using Self-service within IT, HR and financial services. Program managed ServiceNow implementation using Agile SCRUM methodology, leveraging internal and implementation partner teams 100% IT service cross charging to business units implemented. All IT contracts, licenses and audit supporting documents securely stored in ServiceNow. Global IT budget and budget consumption process were fully automated in ServiceNow achieving full cost transparency of IT initiatives globally with realized business benefits. Established strategic, tactical and operational dashboards, defined KPIs, SLA and OLA."
+        },
+        {
+            "title": "Project Manager – ERP Rollout",
+            "company": "Dufry AG (Avolta)",
+            "start_date": "2012-01-01",
+            "end_date": "2014-01-01",
+            "description": "Successfully Implemented Oracle finance & retail in Italy and Brazil, approved functional specifications, prioritize the scope for technical teams, facilitated Signoff of project to support organization. Service management and account management responsible for Oracle ERP implementation for Italy and Brazil."
+        },
+        {
+            "title": "Service Delivery Manager – ERP (SAP) Business account management",
+            "company": "Novartis (Infosys)",
+            "start_date": "2008-01-01",
+            "end_date": "2010-01-01",
+            "description": "Accountable for strategic SAP ERP accounts for Novartis (Austria, Hungary, Czech, Poland and Portugal). CIO/CFO advisory and business SPOC for relationship management and escalations. Responsible for global Program & Project prioritization based on ROI (NPV/IRR) and global priorities. Accountable for delivering IT services and performance commitment on SLA, KPI, OLA etc. Realigned IT teams to the business criticality, ensuring organization success. Defined and implemented Services, team setup, operational processes, to business criticality, redefined support organization structure and renegotiated contracts with vendors to complement the same. Strategic dashboards for Service level monitoring, ensuring incidents; Problem, release, change and other operations are managed and continuously improved. Stakeholder, Budget, Finance and vendors are managed and escalations are adequately addressed."
+        },
+        {
+            "title": "Engineering Manager / Competence lead",
+            "company": "Johnson Controls (Infosys), UK & USA",
+            "start_date": "2000-01-01",
+            "end_date": "2008-01-01",
+            "description": "Program/ Product owner for 6 sigma design optimization. Savings of 1.5 million achieved. Product Owner to established new business line of Plastics and interior design for organization, generating >3Mn USD revenue for organization from second year onwards."
+        }
+    ],
+    "education": [
+        {
+            "institution": "IMD Lausanne",
+            "degree": "Digital Excellence Diploma",
+            "field_of_study": "Digital Strategy",
+            "start_date": "2019-01-01",
+            "end_date": "2019-12-31"
+        },
+        {
+            "institution": "Copenhagen Business School",
+            "degree": "MBA",
+            "field_of_study": "Business Administration",
+            "start_date": "2010-01-01",
+            "end_date": "2012-12-31"
+        },
+        {
+            "institution": "Pune University, India",
+            "degree": "Bachelors of Engineering",
+            "field_of_study": "Engineering",
+            "start_date": "1994-01-01",
+            "end_date": "1998-12-31"
+        }
+    ],
+    "certifications": [
+        "ITIL V3 professional – IT Service Management",
+        "CGEIT corporate governance in enterprise IT",
+        "PMP professional – International Project Management",
+        "SAFe 6.0"
+    ]
+}

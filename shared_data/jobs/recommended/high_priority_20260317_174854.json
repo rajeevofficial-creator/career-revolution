@@ -1,0 +1,325 @@
+[
+  {
+    "id": "job_linkedin_20260317_000",
+    "title": "IT Director",
+    "company": "Pfizer",
+    "location": "Basel, Switzerland",
+    "relevance_score": 100.0,
+    "url": "https://example.com/jobs/it-director-9959",
+    "match_details": {
+      "title_match": 1.0,
+      "location_match": 1.0,
+      "industry_match": 1.0,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Title alignment",
+        "Location preference",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_indeed_20260317_003",
+    "title": "IT Director",
+    "company": "Bayer",
+    "location": "Basel, Switzerland",
+    "relevance_score": 100.0,
+    "url": "https://example.com/jobs/it-director-7740",
+    "match_details": {
+      "title_match": 1.0,
+      "location_match": 1.0,
+      "industry_match": 1.0,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Title alignment",
+        "Location preference",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_glassdoor_20260317_002",
+    "title": "IT Director",
+    "company": "Merck",
+    "location": "Basel, Switzerland",
+    "relevance_score": 100.0,
+    "url": "https://example.com/jobs/it-director-1568",
+    "match_details": {
+      "title_match": 1.0,
+      "location_match": 1.0,
+      "industry_match": 1.0,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Title alignment",
+        "Location preference",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_company_careers_20260317_006",
+    "title": "IT Director",
+    "company": "Johnson & Johnson",
+    "location": "Basel, Switzerland",
+    "relevance_score": 100.0,
+    "url": "https://example.com/jobs/it-director-3889",
+    "match_details": {
+      "title_match": 1.0,
+      "location_match": 1.0,
+      "industry_match": 1.0,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Title alignment",
+        "Location preference",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_linkedin_20260317_005",
+    "title": "IT Business Partner",
+    "company": "Pictet",
+    "location": "Geneva, Switzerland",
+    "relevance_score": 94.00000000000001,
+    "url": "https://example.com/jobs/it-business-partner-6925",
+    "match_details": {
+      "title_match": 1.0,
+      "location_match": 0.8,
+      "industry_match": 0.9,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Title alignment",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_indeed_20260317_002",
+    "title": "IT Business Partner",
+    "company": "Lombard Odier",
+    "location": "Geneva, Switzerland",
+    "relevance_score": 94.00000000000001,
+    "url": "https://example.com/jobs/it-business-partner-4442",
+    "match_details": {
+      "title_match": 1.0,
+      "location_match": 0.8,
+      "industry_match": 0.9,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Title alignment",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_glassdoor_20260317_004",
+    "title": "IT Business Partner",
+    "company": "UBS",
+    "location": "Geneva, Switzerland",
+    "relevance_score": 94.00000000000001,
+    "url": "https://example.com/jobs/it-business-partner-2596",
+    "match_details": {
+      "title_match": 1.0,
+      "location_match": 0.8,
+      "industry_match": 0.9,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Title alignment",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_recruitment_agency_20260317_001",
+    "title": "IT Business Partner",
+    "company": "Zurich Insurance",
+    "location": "Geneva, Switzerland",
+    "relevance_score": 94.00000000000001,
+    "url": "https://example.com/jobs/it-business-partner-1620",
+    "match_details": {
+      "title_match": 1.0,
+      "location_match": 0.8,
+      "industry_match": 0.9,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Title alignment",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_linkedin_20260317_003",
+    "title": "Technology Director",
+    "company": "Pfizer",
+    "location": "Basel, Switzerland",
+    "relevance_score": 92.5,
+    "url": "https://example.com/jobs/technology-director-5960",
+    "match_details": {
+      "title_match": 0.7,
+      "location_match": 1.0,
+      "industry_match": 1.0,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Location preference",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_company_careers_20260317_005",
+    "title": "Head of IT",
+    "company": "Johnson & Johnson",
+    "location": "Basel, Switzerland",
+    "relevance_score": 92.5,
+    "url": "https://example.com/jobs/head-of-it-7771",
+    "match_details": {
+      "title_match": 0.7,
+      "location_match": 1.0,
+      "industry_match": 1.0,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Location preference",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_recruitment_agency_20260317_002",
+    "title": "Head of IT",
+    "company": "Bayer",
+    "location": "Basel, Switzerland",
+    "relevance_score": 92.5,
+    "url": "https://example.com/jobs/head-of-it-6994",
+    "match_details": {
+      "title_match": 0.7,
+      "location_match": 1.0,
+      "industry_match": 1.0,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Location preference",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_linkedin_20260317_002",
+    "title": "IT Relationship Manager",
+    "company": "Pictet",
+    "location": "Geneva, Switzerland",
+    "relevance_score": 86.5,
+    "url": "https://example.com/jobs/it-relationship-manager-8880",
+    "match_details": {
+      "title_match": 0.7,
+      "location_match": 0.8,
+      "industry_match": 0.9,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_indeed_20260317_000",
+    "title": "Technology Business Partner",
+    "company": "Lombard Odier",
+    "location": "Geneva, Switzerland",
+    "relevance_score": 81.50000000000001,
+    "url": "https://example.com/jobs/technology-business-partner-8378",
+    "match_details": {
+      "title_match": 0.5,
+      "location_match": 0.8,
+      "industry_match": 0.9,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_recruitment_agency_20260317_003",
+    "title": "Technology Business Partner",
+    "company": "Zurich Insurance",
+    "location": "Geneva, Switzerland",
+    "relevance_score": 81.50000000000001,
+    "url": "https://example.com/jobs/technology-business-partner-6434",
+    "match_details": {
+      "title_match": 0.5,
+      "location_match": 0.8,
+      "industry_match": 0.9,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  }
+]

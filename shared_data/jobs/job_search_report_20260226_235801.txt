@@ -1,0 +1,143 @@
+================================================================================
+JOB SEARCH AGENT - MARKET INTELLIGENCE REPORT
+================================================================================
+
+SEARCH SUMMARY
+----------------------------------------
+Total jobs discovered: 21
+High priority matches: 11
+Search date: 2026-02-26 23:58:01
+Target location: Basel, Switzerland, Zurich, Switzerland, Geneva, Switzerland
+Target industries: pharma_it, finance_it, digital_transformation
+
+TOP 10 RECOMMENDATIONS
+----------------------------------------
+1. IT Director
+   Company: Pfizer
+   Location: Basel, Switzerland
+   Relevance: 100.0%
+   Source: indeed
+   Posted: 2026-02-03
+   Strengths: Title alignment, Location preference, Industry experience
+   Salary: CHF 180,000 - 220,000
+   URL: https://example.com/jobs/it-director-2888
+
+2. IT Director
+   Company: GlaxoSmithKline
+   Location: Basel, Switzerland
+   Relevance: 100.0%
+   Source: glassdoor
+   Posted: 2026-02-22
+   Strengths: Title alignment, Location preference, Industry experience
+   Salary: CHF 180,000 - 220,000
+   URL: https://example.com/jobs/it-director-9098
+
+3. IT Business Partner
+   Company: Julius Bär
+   Location: Geneva, Switzerland
+   Relevance: 94.0%
+   Source: indeed
+   Posted: 2026-01-31
+   Strengths: Title alignment, Industry experience, Experience level
+   Salary: CHF 150,000 - 190,000
+   URL: https://example.com/jobs/it-business-partner-2223
+
+4. IT Business Partner
+   Company: Zurich Insurance
+   Location: Geneva, Switzerland
+   Relevance: 94.0%
+   Source: glassdoor
+   Posted: 2026-02-25
+   Strengths: Title alignment, Industry experience, Experience level
+   Salary: CHF 150,000 - 190,000
+   URL: https://example.com/jobs/it-business-partner-3683
+
+5. IT Business Partner
+   Company: Pictet
+   Location: Geneva, Switzerland
+   Relevance: 94.0%
+   Source: company_careers
+   Posted: 2026-02-24
+   Strengths: Title alignment, Industry experience, Experience level
+   Salary: CHF 150,000 - 190,000
+   URL: https://example.com/jobs/it-business-partner-8517
+
+6. Technology Director
+   Company: Merck
+   Location: Basel, Switzerland
+   Relevance: 92.5%
+   Source: recruitment_agency
+   Posted: 2026-02-13
+   Strengths: Location preference, Industry experience, Experience level
+   Salary: CHF 180,000 - 220,000
+   URL: https://example.com/jobs/technology-director-6376
+
+7. IT Relationship Manager
+   Company: Banque Cantonale
+   Location: Geneva, Switzerland
+   Relevance: 86.5%
+   Source: linkedin
+   Posted: 2026-02-25
+   Strengths: Industry experience, Experience level, Skills match
+   Salary: CHF 150,000 - 190,000
+   URL: https://example.com/jobs/it-relationship-manager-2621
+
+8. Technology Business Partner
+   Company: Banque Cantonale
+   Location: Geneva, Switzerland
+   Relevance: 81.5%
+   Source: recruitment_agency
+   Posted: 2026-02-21
+   Strengths: Industry experience, Experience level, Skills match
+   Salary: CHF 150,000 - 190,000
+   URL: https://example.com/jobs/technology-business-partner-6473
+
+9. CIO
+   Company: AbbVie
+   Location: Basel, Switzerland
+   Relevance: 80.0%
+   Source: linkedin
+   Posted: 2026-02-22
+   Strengths: Location preference, Industry experience, Experience level
+   Salary: CHF 180,000 - 220,000
+   URL: https://example.com/jobs/cio-1474
+
+10. CIO
+   Company: GlaxoSmithKline
+   Location: Basel, Switzerland
+   Relevance: 80.0%
+   Source: glassdoor
+   Posted: 2026-02-01
+   Strengths: Location preference, Industry experience, Experience level
+   Salary: CHF 180,000 - 220,000
+   URL: https://example.com/jobs/cio-5298
+
+MARKET INSIGHTS
+----------------------------------------
+Job Distribution by Source:
+  • linkedin: 5 jobs
+  • indeed: 4 jobs
+  • glassdoor: 4 jobs
+  • company_careers: 4 jobs
+  • recruitment_agency: 4 jobs
+
+Job Distribution by Location:
+  • Basel: 9 jobs
+  • Geneva: 5 jobs
+  • Zurich: 4 jobs
+  • Remote: 3 jobs
+
+Top In-Demand Skills:
+  • project management: 14 mentions
+  • strategic planning: 6 mentions
+  • team leadership: 6 mentions
+  • regulatory compliance: 6 mentions
+  • business intelligence: 5 mentions
+
+================================================================================
+Next Steps:
+1. Review high priority opportunities
+2. Check application deadlines
+3. Prepare tailored applications
+4. Schedule follow-ups for promising leads
+================================================================================

@@ -1,0 +1,90 @@
+[
+  {
+    "profile_id": "it_director_pharma",
+    "title": "IT Director - Pharmaceutical",
+    "industry": "Pharmaceutical IT",
+    "fit_score": 92.5,
+    "skill_gaps": [],
+    "match_details": {
+      "experience_match": "15y vs 10y required",
+      "skills_match": "5/5 skills matched",
+      "education_match": "master vs master required",
+      "industry_alignment": "pharma_it"
+    },
+    "location": "Basel, Switzerland",
+    "salary_range": "CHF 180,000 - 220,000",
+    "description": "Lead IT strategy and digital transformation in pharmaceutical environment."
+  },
+  {
+    "profile_id": "digital_transformation_lead",
+    "title": "Digital Transformation Lead",
+    "industry": "Digital Transformation",
+    "fit_score": 88.3,
+    "skill_gaps": [
+      "Missing certifications: Agile, Scrum"
+    ],
+    "match_details": {
+      "experience_match": "15y vs 8y required",
+      "skills_match": "4/5 skills matched",
+      "education_match": "master vs master required",
+      "industry_alignment": "digital_transformation"
+    },
+    "location": "Zurich, Switzerland",
+    "salary_range": "CHF 160,000 - 200,000",
+    "description": "Drive digital transformation initiatives across organizations."
+  },
+  {
+    "profile_id": "it_business_partner",
+    "title": "IT Business Partner - Finance",
+    "industry": "Financial Services IT",
+    "fit_score": 85.7,
+    "skill_gaps": [
+      "Missing skills: financial reporting"
+    ],
+    "match_details": {
+      "experience_match": "15y vs 7y required",
+      "skills_match": "4/5 skills matched",
+      "education_match": "master vs bachelor required",
+      "industry_alignment": "finance_it"
+    },
+    "location": "Geneva, Switzerland",
+    "salary_range": "CHF 150,000 - 190,000",
+    "description": "Bridge IT and finance departments to deliver business value."
+  },
+  {
+    "profile_id": "senior_project_manager",
+    "title": "Senior Project Manager",
+    "industry": "Consulting",
+    "fit_score": 83.2,
+    "skill_gaps": [
+      "Missing certifications: Prince2"
+    ],
+    "match_details": {
+      "experience_match": "15y vs 8y required",
+      "skills_match": "4/5 skills matched",
+      "education_match": "master vs bachelor required",
+      "industry_alignment": "consulting"
+    },
+    "location": "Remote",
+    "salary_range": "CHF 140,000 - 180,000",
+    "description": "Manage complex projects from initiation to completion."
+  },
+  {
+    "profile_id": "service_delivery_manager",
+    "title": "Service Delivery Manager",
+    "industry": "IT Services",
+    "fit_score": 79.5,
+    "skill_gaps": [
+      "Missing certifications: ISO20000"
+    ],
+    "match_details": {
+      "experience_match": "15y vs 6y required",
+      "skills_match": "4/5 skills matched",
+      "education_match": "master vs bachelor required",
+      "industry_alignment": "it_services"
+    },
+    "location": "Basel, Switzerland",
+    "salary_range": "CHF 130,000 - 170,000",
+    "description": "Ensure high-quality IT service delivery to clients."
+  }
+]

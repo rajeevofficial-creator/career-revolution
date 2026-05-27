@@ -1,0 +1,23 @@
+[21:59:47] ===  ============================================================
+[21:59:47] ===    AUTO-APPLY END-TO-END TEST SUITE
+[21:59:47] ===  ============================================================
+[21:59:47] [i]  Test mode    : creds
+[21:59:47] [i]  Headless     : False
+[21:59:47] [i]  Start time   : 2026-03-27 21:59:47
+[21:59:47] [i]  Results file : C:\Users\rajeev\career_revolution\tmp\auto_apply_test_results.txt
+[21:59:47] ===  ============================================================
+[21:59:47] ===    TEST 1: Credential Storage & Decryption
+[21:59:47] ===  ============================================================
+[21:59:47] [OK]  Found credential record for user_id=1
+[21:59:47] [i]    LinkedIn URL      : https://www.linkedin.com/in/rajeevsharma7/
+[21:59:47] [i]    LinkedIn Username : rajeev.sharma@mail.ch
+[21:59:47] [i]    Email Username    : rajeev.sharma@mail.ch
+[21:59:47] [OK]    LinkedIn Password : *********  (decrypted OK, length=9)
+[21:59:47] [OK]    Email Password    : **********  (decrypted OK, length=10)
+[21:59:47] [OK]  TEST 1 PASSED ? credentials decrypted successfully
+[21:59:47] ===  ============================================================
+[21:59:47] ===    SUMMARY
+[21:59:47] ===  ============================================================
+[21:59:47] [OK]    credentials          : PASSED
+[21:59:47] [OK]  All tests passed! Auto-Apply workflow is operational.
+[21:59:47] [i]  End time: 2026-03-27 21:59:47

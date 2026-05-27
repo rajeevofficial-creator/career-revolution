@@ -1,0 +1,70 @@
+{
+  "profile_url": "linkedin.com/in/rajeevsharma",
+  "analysis_date": "2026-02-23T12:39:43.065488",
+  "current_state": {
+    "estimated_score": 68,
+    "strengths": [
+      "15+ years IT project management experience",
+      "Multiple certifications (PMP, CGEIT, ITIL)",
+      "German language proficiency in Swiss market",
+      "Pharma/Finance industry specialization",
+      "Quantifiable achievements available"
+    ],
+    "weaknesses": [
+      "Headline likely just job title",
+      "About section needs storytelling",
+      "Limited content posting history",
+      "Network may not be targeted enough",
+      "Skills section needs keyword optimization"
+    ]
+  },
+  "optimization_plan": {
+    "phase_1_week_1": [
+      "Optimize headline (30 mins)",
+      "Rewrite About section (2 hours)",
+      "Enhance 4 experience entries (3 hours)",
+      "Optimize skills section (1 hour)"
+    ],
+    "phase_2_weeks_2_4": [
+      "Create content calendar (2 hours)",
+      "Connect with 100 target professionals",
+      "Post 3x per week consistently",
+      "Request 5 recommendations"
+    ],
+    "phase_3_months_2_3": [
+      "Create video content",
+      "Write LinkedIn articles",
+      "Participate in industry events",
+      "Analyze and optimize strategy"
+    ]
+  },
+  "content_strategy": {
+    "pillars": [
+      "Project Management Excellence",
+      "Pharma IT Insights",
+      "German Market Business",
+      "Career Growth & Development"
+    ],
+    "posting_schedule": {
+      "Monday": "8:30 AM - Industry insights",
+      "Wednesday": "1:00 PM - Case studies",
+      "Friday": "4:00 PM - Career tips"
+    }
+  },
+  "metrics": {
+    "weekly": [
+      "Profile views",
+      "Post engagement",
+      "New connections"
+    ],
+    "monthly": [
+      "Recruiter InMails",
+      "Job opportunities",
+      "Recommendations"
+    ],
+    "targets": {
+      "30_days": "30% visibility increase",
+      "90_days": "3-5 recruiter inquiries/month"
+    }
+  }
+}

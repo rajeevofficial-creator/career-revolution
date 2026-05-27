@@ -1,0 +1,93 @@
+{
+  "profile_summary": {
+    "name": "Rajeev Sharma",
+    "based_on": "CV file names contain 'Sharma_Rajeev'",
+    "location": "Switzerland",
+    "evidence": "AHV document (Swiss social security) found",
+    "languages": [
+      "German (B1/B2 level)",
+      "English",
+      "Hindi"
+    ],
+    "evidence_languages": "B1_Certificate.pdf and B2_Course.pdf found",
+    "education": [
+      "Bachelor's Degree"
+    ],
+    "evidence_education": "Bachelor_Degree.pdf found",
+    "industries": [
+      "Consulting",
+      "Technology",
+      "Finance",
+      "Brand Management"
+    ],
+    "evidence_industries": "Project documents show brand strategy and AI requirements"
+  },
+  "document_analysis": {
+    "cv_versions": 2,
+    "cv_dates": [
+      "January 2025",
+      "January 2025"
+    ],
+    "certifications_count": 3,
+    "financial_documents": 8,
+    "work_documents": 6,
+    "project_documents": 4
+  },
+  "extracted_skills": [
+    "Project Management (from CV and project docs)",
+    "Brand Strategy (from Brand_Steering_Wheel.pdf)",
+    "AI/ML Knowledge (from AI_job_profiles_requirements.docx)",
+    "Financial Management (from bank and AHV documents)",
+    "German Language (B1/B2 certified)",
+    "Stakeholder Management (inferred from work documents)"
+  ],
+  "career_timeline": [
+    {
+      "period": "Current",
+      "activity": "Career document organization and profile building",
+      "evidence": "Multiple recent CV versions and project documents"
+    },
+    {
+      "period": "2020-2024",
+      "activity": "Work in Switzerland",
+      "evidence": "Multiple Beleg (receipt) documents from 2020-2022"
+    },
+    {
+      "period": "Education",
+      "activity": "Bachelor's Degree completion",
+      "evidence": "Bachelor_Degree.pdf certificate"
+    }
+  ],
+  "ai_recommendations": [
+    {
+      "priority": "HIGH",
+      "action": "Merge 2 CV versions into one master CV",
+      "benefit": "Eliminate version confusion, create consistent profile",
+      "time": "1 hour"
+    },
+    {
+      "priority": "HIGH",
+      "action": "Organize financial documents by year",
+      "benefit": "Easy tax preparation and financial tracking",
+      "time": "30 minutes"
+    },
+    {
+      "priority": "MEDIUM",
+      "action": "Extract all skills from CVs into skills inventory",
+      "benefit": "Complete visibility of all capabilities",
+      "time": "2 hours"
+    },
+    {
+      "priority": "MEDIUM",
+      "action": "Create certification portfolio with expiry dates",
+      "benefit": "Never miss renewal deadlines",
+      "time": "1 hour"
+    },
+    {
+      "priority": "LOW",
+      "action": "OCR scan all paper documents",
+      "benefit": "Make all documents searchable",
+      "time": "4 hours"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+262: log.append("Application submitted successfully!")
+263: return {"success": True, "intervention": False, "message": "Applied via LinkedIn Easy Apply.", "log": log}
+427: return {"success": True, "intervention": False, "message": "Applied via Greenhouse.", "log": log}
+592: f"Starting automation for {ats.upper()} platform...",
+662: application.status = "applied"
+663: application.applied_at = datetime.utcnow()
+693: "status": "applied" if result.get("success") else ("intervention" if result.get("intervention") else "error"),

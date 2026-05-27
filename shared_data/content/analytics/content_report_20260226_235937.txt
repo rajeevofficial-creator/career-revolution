@@ -1,0 +1,47 @@
+================================================================================
+SOCIAL PROFILE AGENT - CONTENT STRATEGY REPORT
+================================================================================
+
+CONTENT SUMMARY
+----------------------------------------
+Total Drafts: 6
+Approved Content: 6
+Scheduled Content: 2
+Primary Industry: Pharma It
+
+CONTENT DISTRIBUTION BY TYPE
+----------------------------------------
+  youtube_script: 7 pieces
+  blog_post: 2 pieces
+  linkedin_article: 2 pieces
+
+TOP CONTENT TOPICS
+----------------------------------------
+  • Insights on Industry Insights & (2 pieces)
+  • The Future of Work: Technology (2 pieces)
+  • Insights on Digital Workplace Transformation (2 pieces)
+  • Success Stories: Digital Transformation in (1 pieces)
+  • Cloud Migration Strategies That Work (1 pieces)
+
+UPCOMING CONTENT SCHEDULE
+----------------------------------------
+  2026-02-27 23:59: Insights on Project Management Success Stories
+    Type: linkedin_article
+
+  2026-03-01 23:59: Strategic Thinking for IT Leaders
+    Type: blog_post
+
+CONTENT STRATEGY RECOMMENDATIONS
+----------------------------------------
+  1. Maintain consistent posting schedule (2-3 times per week)
+  2. Mix content types: Articles (40%), Posts (40%), Videos (20%)
+  3. Engage with comments to build community
+  4. Repurpose successful content across platforms
+  5. Analyze engagement metrics monthly
+
+================================================================================
+Next Steps:
+1. Review and approve pending drafts
+2. Schedule approved content
+3. Monitor engagement and adjust strategy
+================================================================================

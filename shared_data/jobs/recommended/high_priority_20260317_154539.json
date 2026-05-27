@@ -1,0 +1,163 @@
+[
+  {
+    "id": "job_recruitment_agency_20260317_005",
+    "title": "IT Director",
+    "company": "GlaxoSmithKline",
+    "location": "Basel, Switzerland",
+    "relevance_score": 100.0,
+    "url": "https://example.com/jobs/it-director-1931",
+    "match_details": {
+      "title_match": 1.0,
+      "location_match": 1.0,
+      "industry_match": 1.0,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Title alignment",
+        "Location preference",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_indeed_20260317_000",
+    "title": "IT Business Partner",
+    "company": "Raiffeisen",
+    "location": "Geneva, Switzerland",
+    "relevance_score": 94.00000000000001,
+    "url": "https://example.com/jobs/it-business-partner-6907",
+    "match_details": {
+      "title_match": 1.0,
+      "location_match": 0.8,
+      "industry_match": 0.9,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Title alignment",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_glassdoor_20260317_000",
+    "title": "IT Business Partner",
+    "company": "Banque Cantonale",
+    "location": "Geneva, Switzerland",
+    "relevance_score": 94.00000000000001,
+    "url": "https://example.com/jobs/it-business-partner-7365",
+    "match_details": {
+      "title_match": 1.0,
+      "location_match": 0.8,
+      "industry_match": 0.9,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Title alignment",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_company_careers_20260317_002",
+    "title": "Technology Director",
+    "company": "Merck",
+    "location": "Basel, Switzerland",
+    "relevance_score": 92.5,
+    "url": "https://example.com/jobs/technology-director-4804",
+    "match_details": {
+      "title_match": 0.7,
+      "location_match": 1.0,
+      "industry_match": 1.0,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Location preference",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_recruitment_agency_20260317_001",
+    "title": "Technology Director",
+    "company": "GlaxoSmithKline",
+    "location": "Basel, Switzerland",
+    "relevance_score": 92.5,
+    "url": "https://example.com/jobs/technology-director-5738",
+    "match_details": {
+      "title_match": 0.7,
+      "location_match": 1.0,
+      "industry_match": 1.0,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Location preference",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_recruitment_agency_20260317_003",
+    "title": "Head of IT",
+    "company": "GlaxoSmithKline",
+    "location": "Basel, Switzerland",
+    "relevance_score": 92.5,
+    "url": "https://example.com/jobs/head-of-it-9946",
+    "match_details": {
+      "title_match": 0.7,
+      "location_match": 1.0,
+      "industry_match": 1.0,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Location preference",
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  },
+  {
+    "id": "job_company_careers_20260317_000",
+    "title": "Technology Business Partner",
+    "company": "Raiffeisen",
+    "location": "Geneva, Switzerland",
+    "relevance_score": 81.50000000000001,
+    "url": "https://example.com/jobs/technology-business-partner-6788",
+    "match_details": {
+      "title_match": 0.5,
+      "location_match": 0.8,
+      "industry_match": 0.9,
+      "experience_match": 1.0,
+      "skills_match": 1.0,
+      "remote_friendly": false,
+      "salary_indication": "High",
+      "strengths": [
+        "Industry experience",
+        "Experience level",
+        "Skills match"
+      ]
+    }
+  }
+]

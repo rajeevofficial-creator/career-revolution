@@ -1,0 +1,38 @@
+﻿=== PREPARED APPLICATIONS WITH JOB URLs ===
+  app_id=8  status=applied
+    app_url  = https://career.valora.com/en/job/5576/it-strategy-and-transformation-manager-w-m-d
+    job_url  = None
+    title    = None  co=None
+    cv_path  = uploads\1\applications\8\Tailored_CV_20260327_193140.pdf
+
+  app_id=7  status=prepared
+    app_url  = None
+    job_url  = https://careers.roche.com/global/en/job/202507-119329/Medical-Copywriter
+    title    = Medical Copywriter  co=Roche Careers
+    cv_path  = uploads\1\applications\7\Tailored_CV_20260327_002425.pdf
+
+  app_id=6  status=prepared
+    app_url  = None
+    job_url  = https://www.novartis.com/careers/career-search/job/details/req-10074784-clinical-sciences-associate-director
+    title    = Clinical Sciences Associate Director  co=Novartis Switzerland Careers
+    cv_path  = uploads\1\applications\6\Tailored_CV_20260327_000118.pdf
+
+  app_id=5  status=prepared
+    app_url  = None
+    job_url  = None
+    title    = None  co=None
+    cv_path  = uploads\1\applications\5\Tailored_CV_20260325_202232.pdf
+
+  app_id=4  status=prepared
+    app_url  = None
+    job_url  = None
+    title    = None  co=None
+    cv_path  = None
+
+  app_id=3  status=prepared
+    app_url  = https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4388518670
+    job_url  = None
+    title    = None  co=None
+    cv_path  = uploads\1\applications\3\Tailored_CV_20260327_193804.pdf
+
+=== AUTO-APPLY ACCOUNTS ===

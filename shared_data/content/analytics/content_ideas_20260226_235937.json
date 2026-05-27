@@ -1,0 +1,62 @@
+[
+  {
+    "id": "idea_e5ab05a7",
+    "topic": "Insights on Project Management Success Stories",
+    "category": "Project Management Success Stories",
+    "key_points": [
+      "Current challenges and opportunities",
+      "Best practices and lessons learned",
+      "Future trends and predictions",
+      "Actionable advice for practitioners",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "linkedin_article",
+    "target_platform": "Professional Blog",
+    "created_at": "2026-02-26T23:59:37.617109"
+  },
+  {
+    "id": "idea_39d52e3a",
+    "topic": "Strategic Thinking for IT Leaders",
+    "category": "Leadership & Team Management",
+    "key_points": [
+      "Communication strategies",
+      "Team motivation techniques",
+      "Decision-making frameworks",
+      "Professional development planning",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "blog_post",
+    "target_platform": "YouTube",
+    "created_at": "2026-02-26T23:59:37.617164"
+  },
+  {
+    "id": "idea_d574119f",
+    "topic": "Insights on Digital Workplace Transformation",
+    "category": "Digital Workplace Transformation",
+    "key_points": [
+      "Change management strategies",
+      "Technology selection criteria",
+      "Stakeholder engagement tactics",
+      "Success metrics and KPIs",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "youtube_script",
+    "target_platform": "LinkedIn",
+    "created_at": "2026-02-26T23:59:37.617181"
+  },
+  {
+    "id": "idea_5a10d594",
+    "topic": "Insights on Industry Insights & Future Trends",
+    "category": "Industry Insights & Future Trends",
+    "key_points": [
+      "Current challenges and opportunities",
+      "Best practices and lessons learned",
+      "Future trends and predictions",
+      "Actionable advice for practitioners",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "youtube_script",
+    "target_platform": "LinkedIn",
+    "created_at": "2026-02-26T23:59:37.617193"
+  }
+]

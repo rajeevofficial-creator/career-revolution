@@ -1,0 +1,31 @@
+================================================================================
+APPLICATION TRACKING REPORT
+================================================================================
+Generated on: 2026-03-23 09:39:19
+
+Summary by Status:
+  • Draft: 1
+  • Submitted: 0
+  • Under Review: 1
+  • Interview Scheduled: 1
+  • Offer Received: 0
+  • Rejected: 0
+  • Withdrawn: 0
+
+Action Recommendations:
+  1. Complete and submit 1 draft application(s)
+  3. Increase application volume to improve chances
+
+30-Day Goals:
+  • Submit 5-10 new applications
+  • Achieve 20% interview conversion rate
+  • Complete all pending follow-ups
+  • Secure at least 2 first-round interviews
+
+================================================================================
+Key Metrics:
+• Application submission rate
+• Interview conversion rate
+• Follow-up completion rate
+• Time-to-offer (average days)
+================================================================================

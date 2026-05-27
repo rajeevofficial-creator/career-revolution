@@ -1,0 +1,41 @@
+[23:31:30] ===  =================================================================
+[23:31:30] ===    AUTO-APPLY LIVE RUN v3
+[23:31:30] ===  =================================================================
+[23:31:30] [i]  Mode  : linkedin
+[23:31:30] [i]  Start : 2026-03-27 23:31:30
+[23:31:30] [i]  User: Rajeev Sharma | rajeev.sharma@mail.ch
+[23:31:30] ===  =================================================================
+[23:31:30] ===    RUN 1: LinkedIn Easy Apply — Live Submission
+[23:31:30] ===  =================================================================
+[23:31:30] [i]  CV Path: uploads\1\applications\3\Tailored_CV_20260327_193804.pdf
+[23:31:32] [>>]  Navigating to LinkedIn...
+[23:31:36] [i]  URL after navigation: https://www.linkedin.com/login
+[23:31:37] [>>]  Filling login form...
+[23:31:41] [>>]  Clicking Sign In...
+[23:31:48] [i]  Post-login URL: https://www.linkedin.com/feed/
+[23:31:48] [OK]  LinkedIn login successful!
+[23:31:50] [OK]  Cookie banner dismissed (button:has-text("Accept"))
+[23:31:52] [i]  Screenshot → li_01_logged_in.png
+[23:31:52] [>>]  Navigating to provided job URL: https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4387262465
+[23:31:59] [i]  Screenshot → li_03_job_page.png
+[23:31:59] [i]  Job page URL: https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4387262465
+[23:31:59] [i]  Job title: (28) Top job picks for you | LinkedIn
+[23:32:00] [>>]  Finding Easy Apply button...
+[23:32:00] [OK]  Easy Apply button found via: button:has-text("Easy Apply")
+[23:32:04] [i]  Screenshot → li_04_easy_apply_opened.png
+[23:32:04] [>>]  Filling Easy Apply form steps...
+[23:32:05] [i]  Screenshot → li_05_form_step_01.png
+[23:32:12] [i]  Step 1: Clicked Next.
+[23:32:13] [i]  Screenshot → li_05_form_step_02.png
+[23:32:17] [OK]  Step 2: CV uploaded.
+[23:32:20] [i]  Step 2: Clicked Review.
+[23:32:22] [i]  Screenshot → li_05_form_step_03.png
+[23:32:23] [>>]  Step 3: Clicked Submit application.
+[23:32:29] [WARN]  Submission not confirmed — status unchanged.
+[23:32:29] [i]  Screenshot → li_06_final.png
+[23:32:29] [i]  Keeping browser open 10s...
+[23:32:39] ===  =================================================================
+[23:32:39] ===    RUN COMPLETE
+[23:32:39] ===  =================================================================
+[23:32:39] [i]  End: 2026-03-27 23:32:39
+[23:32:39] [i]  Screenshots → C:\Users\rajeev\career_revolution\tmp\screenshots

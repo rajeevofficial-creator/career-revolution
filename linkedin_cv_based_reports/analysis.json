@@ -1,0 +1,71 @@
+{
+  "cv_data": {
+    "personal_info": {
+      "name": "Rajeev Sharma",
+      "email": "rajeev.sharma@mail.ch",
+      "phone": "+41 XX XXX XX XX",
+      "linkedin": "linkedin.com/in/rajeevsharma",
+      "location": "Basel, Switzerland"
+    },
+    "skills": [
+      "Project Management",
+      "IT Governance",
+      "ServiceNow",
+      "Stakeholder Management",
+      "Strategic Planning",
+      "Agile Methodology",
+      "Scrum",
+      "Budget Management",
+      "Team Leadership",
+      "Risk Management",
+      "Digital Transformation",
+      "Business Analysis"
+    ],
+    "experiences": [
+      {
+        "company": "Infosys Consulting",
+        "role": "Senior Project Manager",
+        "duration": "2018-2024",
+        "achievements": [
+          "Led digital transformation projects for pharmaceutical clients",
+          "Managed budgets exceeding EUR2M",
+          "Directed teams of 15+ consultants",
+          "Improved operational efficiency by 30%"
+        ]
+      }
+    ],
+    "certifications": [
+      "PMP",
+      "CGEIT",
+      "ITIL Foundation",
+      "German B2"
+    ],
+    "education": [
+      "MBA (IT Management)",
+      "Bachelor of Engineering (Computer Science)"
+    ]
+  },
+  "analysis": {
+    "profile_score": 68,
+    "strengths": [
+      "Strong skills in Project Management, IT Governance, ServiceNow",
+      "Certifications: PMP, CGEIT, ITIL Foundation, German B2",
+      "Experience in Senior Project Manager role",
+      "Location: Basel, Switzerland (strategic market)"
+    ],
+    "weaknesses": [
+      "LinkedIn profile likely not fully optimized",
+      "Headline probably just job title",
+      "About section needs storytelling",
+      "Limited content activity"
+    ],
+    "recommendations": [
+      "Update headline to value proposition",
+      "Rewrite About section with achievements",
+      "Add quantifiable results to experience",
+      "Start posting content 3x per week",
+      "Connect with target professionals"
+    ]
+  },
+  "generated_date": "2026-02-23T12:48:35.350891"
+}

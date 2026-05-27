@@ -1,0 +1,51 @@
+[
+  {
+    "id": "app_001",
+    "job_title": "IT Director - Pharmaceutical",
+    "company": "Major Pharma Company",
+    "location": "Basel, Switzerland",
+    "status": "submitted",
+    "submitted_date": "2026-02-19T23:46:58.596506",
+    "follow_up_date": "2026-03-05T23:46:58.596533",
+    "notes": "Strong match with experience and skills"
+  },
+  {
+    "id": "app_002",
+    "job_title": "Digital Transformation Lead",
+    "company": "Global Consulting Firm",
+    "location": "Zurich, Switzerland",
+    "status": "under_review",
+    "submitted_date": "2026-02-12T23:46:58.596546",
+    "follow_up_date": "2026-03-01T23:46:58.596555",
+    "notes": "Second interview scheduled"
+  },
+  {
+    "id": "app_003",
+    "job_title": "IT Business Partner - Finance",
+    "company": "Financial Services Leader",
+    "location": "Geneva, Switzerland",
+    "status": "interview_scheduled",
+    "submitted_date": "2026-02-05T23:46:58.596561",
+    "interview_date": "2026-03-03T23:46:58.596566",
+    "notes": "Technical interview with team lead"
+  },
+  {
+    "id": "app_004",
+    "job_title": "Senior Project Manager",
+    "company": "Tech Consulting",
+    "location": "Remote",
+    "status": "offer_received",
+    "submitted_date": "2026-01-27T23:46:58.596575",
+    "offer_date": "2026-02-24T23:46:58.596584",
+    "notes": "Negotiating salary package"
+  },
+  {
+    "id": "app_005",
+    "job_title": "Service Delivery Manager",
+    "company": "IT Services Provider",
+    "location": "Basel, Switzerland",
+    "status": "draft",
+    "created_date": "2026-02-26T23:46:58.596593",
+    "notes": "CV customization in progress"
+  }
+]

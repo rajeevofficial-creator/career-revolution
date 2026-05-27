@@ -1,0 +1,77 @@
+[
+  {
+    "id": "idea_10b1c010",
+    "topic": "Insights on Industry-Specific Challenges & Solutions",
+    "category": "Industry-Specific Challenges & Solutions",
+    "key_points": [
+      "Current challenges and opportunities",
+      "Best practices and lessons learned",
+      "Future trends and predictions",
+      "Actionable advice for practitioners",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "blog_post",
+    "target_platform": "Professional Blog",
+    "created_at": "2026-03-17T15:11:57.481111"
+  },
+  {
+    "id": "idea_6aa9d4a4",
+    "topic": "Cloud Migration Strategies That Work",
+    "category": "Technology Trends & Best Practices",
+    "key_points": [
+      "Current challenges and opportunities",
+      "Best practices and lessons learned",
+      "Future trends and predictions",
+      "Actionable advice for practitioners",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "youtube_script",
+    "target_platform": "Professional Blog",
+    "created_at": "2026-03-17T15:11:57.481136"
+  },
+  {
+    "id": "idea_5a10d594",
+    "topic": "Insights on Industry Insights & Future Trends",
+    "category": "Industry Insights & Future Trends",
+    "key_points": [
+      "Current challenges and opportunities",
+      "Best practices and lessons learned",
+      "Future trends and predictions",
+      "Actionable advice for practitioners",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "blog_post",
+    "target_platform": "YouTube",
+    "created_at": "2026-03-17T15:11:57.481144"
+  },
+  {
+    "id": "idea_e3c0bce0",
+    "topic": "AI and Machine Learning in Drug Discovery",
+    "category": "Pharmaceutical IT & Digital Health",
+    "key_points": [
+      "Regulatory compliance considerations",
+      "Patient data security and privacy",
+      "Integration with existing systems",
+      "Measuring clinical outcomes",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "youtube_script",
+    "target_platform": "Professional Blog",
+    "created_at": "2026-03-17T15:11:57.481150"
+  },
+  {
+    "id": "idea_08392a30",
+    "topic": "Navigating Regulatory Challenges in Pharma IT",
+    "category": "Pharmaceutical IT & Digital Health",
+    "key_points": [
+      "Regulatory compliance considerations",
+      "Patient data security and privacy",
+      "Integration with existing systems",
+      "Measuring clinical outcomes",
+      "Leadership perspectives from experience"
+    ],
+    "content_type": "blog_post",
+    "target_platform": "YouTube",
+    "created_at": "2026-03-17T15:11:57.481156"
+  }
+]

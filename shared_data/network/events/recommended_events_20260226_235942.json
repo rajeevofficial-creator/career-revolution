@@ -1,0 +1,90 @@
+[
+  {
+    "id": "event_bbefd393",
+    "name": "Regulatory Compliance in Pharma IT",
+    "event_type": "webinar",
+    "location": "Virtual/Online",
+    "start_date": "2026-03-24T23:59:42.402228",
+    "relevance_score": 94.0,
+    "status": "recommended",
+    "url": "https://example.com/events/regulatory-compliance-in-pharma-it-5",
+    "action": "Register this week"
+  },
+  {
+    "id": "event_872ad045",
+    "name": "Pharma IT & Digital Health Conference",
+    "event_type": "conference",
+    "location": "Basel, Switzerland",
+    "start_date": "2026-05-13T23:59:42.402228",
+    "relevance_score": 92.0,
+    "status": "recommended",
+    "url": "https://example.com/events/pharma-it-&-digital-health-conference-0",
+    "action": "Consider for future planning"
+  },
+  {
+    "id": "event_1b635a21",
+    "name": "Cloud & DevOps Workshop",
+    "event_type": "workshop",
+    "location": "Basel, Switzerland",
+    "start_date": "2026-04-04T23:59:42.402228",
+    "relevance_score": 86.00000000000001,
+    "status": "recommended",
+    "url": "https://example.com/events/cloud-&-devops-workshop-4",
+    "action": "Plan attendance - register soon"
+  },
+  {
+    "id": "event_99a7b398",
+    "name": "Project Management Excellence Conference",
+    "event_type": "conference",
+    "location": "Zurich, Switzerland",
+    "start_date": "2026-04-14T23:59:42.402228",
+    "relevance_score": 86.00000000000001,
+    "status": "recommended",
+    "url": "https://example.com/events/project-management-excellence-conference-6",
+    "action": "Plan attendance - register soon"
+  },
+  {
+    "id": "event_27840b68",
+    "name": "FinTech Innovation Summit",
+    "event_type": "conference",
+    "location": "Zurich, Switzerland",
+    "start_date": "2026-03-25T23:59:42.402228",
+    "relevance_score": 86.0,
+    "status": "recommended",
+    "url": "https://example.com/events/fintech-innovation-summit-1",
+    "action": "Register this week"
+  },
+  {
+    "id": "event_03a453aa",
+    "name": "IT Leadership Roundtable",
+    "event_type": "meetup",
+    "location": "Geneva, Switzerland",
+    "start_date": "2026-04-13T23:59:42.402228",
+    "relevance_score": 85.00000000000001,
+    "status": "recommended",
+    "url": "https://example.com/events/it-leadership-roundtable-3",
+    "action": "Plan attendance - register soon"
+  },
+  {
+    "id": "event_afb8e94b",
+    "name": "Networking for Tech Leaders",
+    "event_type": "networking_event",
+    "location": "Basel, Switzerland",
+    "start_date": "2026-05-02T23:59:42.402228",
+    "relevance_score": 83.0,
+    "status": "recommended",
+    "url": "https://example.com/events/networking-for-tech-leaders-7",
+    "action": "Consider for future planning"
+  },
+  {
+    "id": "event_378d6201",
+    "name": "Digital Transformation Leaders Forum",
+    "event_type": "seminar",
+    "location": "Virtual/Online",
+    "start_date": "2026-05-13T23:59:42.402228",
+    "relevance_score": 76.0,
+    "status": "recommended",
+    "url": "https://example.com/events/digital-transformation-leaders-forum-2",
+    "action": "Consider for future planning"
+  }
+]

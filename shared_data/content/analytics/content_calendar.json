@@ -1,0 +1,22 @@
+[
+  {
+    "id": "content_e5ab05a7",
+    "title": "Insights on Project Management Success Stories",
+    "content_type": "linkedin_article",
+    "scheduled_for": "2026-02-27T23:59:37.652850",
+    "platforms": [
+      "Professional Blog"
+    ],
+    "status": "scheduled"
+  },
+  {
+    "id": "content_39d52e3a",
+    "title": "Strategic Thinking for IT Leaders",
+    "content_type": "blog_post",
+    "scheduled_for": "2026-03-01T23:59:37.652850",
+    "platforms": [
+      "YouTube"
+    ],
+    "status": "scheduled"
+  }
+]

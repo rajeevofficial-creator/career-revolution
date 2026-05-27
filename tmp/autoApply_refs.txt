@@ -1,0 +1,21 @@
+392: loadAutoApplySettings().catch(() => {});
+2349: <button class="btn btn-xs btn-outline-primary py-0 px-2" style="font-size: 0.7rem;" onclick="autoApply(${job.id})">
+2489: onclick="runAutoApply(${app.id})" ${app.status === 'applied' ? 'disabled' : ''}>
+3046: async function loadAutoApplySettings() {
+3054: const alert = document.getElementById('autoApplySettingsAlert');
+3071: await loadAutoApplyAccounts();
+3077: async function saveAutoApplySettings() {
+3106: const alert = document.getElementById('autoApplySettingsAlert');
+3118: async function loadAutoApplyAccounts() {
+3125: const container = document.getElementById('autoApplyAccountsContainer');
+3186: async function runAutoApply(id) {
+3210: await loadAutoApplyAccounts();
+3255: await loadAutoApplyAccounts();
+3424: window.runAutoApply = runAutoApply;
+3429: async function autoApplyFromFinder(jobId) {
+3449: runAutoApply(application.id);
+3491: window.autoApply = autoApplyFromFinder;
+3500: window.runAutoApply = runAutoApply;
+3504: window.saveAutoApplySettings = saveAutoApplySettings;
+3505: window.loadAutoApplySettings = loadAutoApplySettings;
+3506: window.loadAutoApplyAccounts = loadAutoApplyAccounts;

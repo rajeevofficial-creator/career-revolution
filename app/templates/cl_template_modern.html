@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cover Letter - {{ name }}</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 80px 60px;
+            color: #333;
+            line-height: 1.6;
+            background: white;
+        }
+
+        .header {
+            margin-bottom: 50px;
+        }
+
+        .name {
+            font-size: 28px;
+            font-weight: bold;
+            margin: 0;
+        }
+
+        .contact-info {
+            font-size: 14px;
+            color: #666;
+            margin-top: 5px;
+        }
+
+        .date {
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+
+        .recipient {
+            margin-bottom: 30px;
+        }
+
+        .subject {
+            font-weight: bold;
+            margin-bottom: 20px;
+            text-decoration: underline;
+        }
+
+        .content {
+            font-size: 15px;
+            text-align: justify;
+        }
+
+        .closing {
+            margin-top: 40px;
+        }
+
+        .signature {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="name">{{ name }}</div>
+        <div class="contact-info">
+            {{ location }} | {{ phone }} | {{ email }}
+        </div>
+    </div>
+
+    <div class="date">{{ date }}</div>
+
+    <div class="recipient">
+        To,<br>
+        Hiring Manager<br>
+        {{ company }}
+    </div>
+
+    <div class="subject">
+        Subject: Application for {{ job_title }}
+    </div>
+
+    <div class="content">
+        {{ content | safe }}
+    </div>
+
+    <div class="closing">
+        Best regards,
+        <div class="signature">{{ name }}</div>
+    </div>
+</body>
+</html>

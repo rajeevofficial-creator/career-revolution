@@ -1,0 +1,26 @@
+{
+  "total_files": 316,
+  "supported_files": 302,
+  "unsupported_files": 14,
+  "by_category": {
+    "Job Applications": 5,
+    "Other Career Documents": 141,
+    "Photos": 4,
+    "CV/Resume": 63,
+    "Salary Documents": 3,
+    "Cover Letters": 62,
+    "Certifications": 15,
+    "Reference Letters": 5,
+    "Personal Documents": 3,
+    "Contracts": 1
+  },
+  "by_extension": {
+    ".docx": 193,
+    ".png": 1,
+    ".pptx": 7,
+    ".pdf": 86,
+    ".xlsx": 2,
+    ".jpg": 12,
+    ".doc": 1
+  }
+}

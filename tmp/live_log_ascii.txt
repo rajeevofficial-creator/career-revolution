@@ -1,0 +1,28 @@
+[23:16:11] ===  =================================================================
+[23:16:11] ===    AUTO-APPLY LIVE RUN v2
+[23:16:11] ===  =================================================================
+[23:16:11] [i]  Mode  : all
+[23:16:11] [i]  Start : 2026-03-27 23:16:11
+[23:16:11] [i]  IMPORTANT: This script will ACTUALLY SUBMIT applications.
+[23:16:11] ===  =================================================================
+[23:16:11] ===    RUN 1: LinkedIn ? Find Fresh Easy Apply Job & Submit
+[23:16:11] ===  =================================================================
+[23:16:14] [>>]  Navigating to LinkedIn login...
+[23:16:18] [>>]  Entering credentials...
+[23:16:26] [WARN]  htype failed '#username': Page.click: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("#username")
+
+[23:16:34] [WARN]  htype failed '#password': Page.click: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("#password")
+
+[23:17:05] [FAIL]  Fatal error: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button[type=\"submit\"]")
+
+[23:17:05] ===  =================================================================
+[23:17:05] ===    RUN COMPLETE
+[23:17:05] ===  =================================================================
+[23:17:05] [i]  End: 2026-03-27 23:17:05
+[23:17:05] [i]  Screenshots ? C:\Users\rajeev\career_revolution\tmp\screenshots

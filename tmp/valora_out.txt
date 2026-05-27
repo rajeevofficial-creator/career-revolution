@@ -1,0 +1,149 @@
+=== job_applications columns ===
+  id (INTEGER)
+  user_id (INTEGER)
+  job_opportunity_id (INTEGER)
+  application_url (VARCHAR(1000))
+  status (VARCHAR(50))
+  tailored_cv (TEXT)
+  cover_letter (TEXT)
+  cv_path (VARCHAR(1000))
+  cl_path (VARCHAR(1000))
+  generated_at (DATETIME)
+  applied_at (DATETIME)
+  notes (TEXT)
+
+=== APPLICATION ID=8 (Valora) ===
+  id                                 : 8
+  user_id                            : 1
+  application_url                    : https://career.valora.com/en/job/5576/it-strategy-and-transformation-manager-w-m-d
+  status                             : applied
+  tailored_cv                        : # Rajeev Sharma
+Strategic IT Leader & AI Architect specializing in Enterprise Transformation, Post-Merger Integrations, and Scalable Digital Strategies.
+
+## CONTACT
+- Location: Arisd?rferstrasse 7, 4414 F?llinsdorf
+- Phone: +41 79 928 86 70
+- Email: rajeev.sharma@mail.ch
+- LinkedIn: https://www.linkedin.com/in/rajeevsharma7/
+
+## PERSONAL
+- Date of Birth: 16.12.1976
+- Nationality: India
+- Marital Status: married
+- Work Authorization: C
+
+## EXPERTISE
+Rajeev Sharma is a high-impact IT Executive with over two decades of experience driving digital transformation across the Retail, Pharma, and Technology sectors. He possesses a unique dual-competence in legacy enterprise systems (SAP, Oracle, ServiceNow) and cutting-edge AI innovation (LLMOps, Multi-agent systems, RAG). Rajeev has a proven history of orchestrating complex global programs, including post-merger integrations that realized over CHF 120M in IT synergies and the delivery of autonomous AI systems for financial reasoning.
+
+His career is defined by an ability to bridge the gap between technical architecture and business value. From setting up global PMOs and IT governance frameworks for multi-billion dollar organizations like Dufry AG to leading product visions for AI-driven supplier portals at British American Tobacco, Rajeev consistently delivers operational efficiency. He is an expert in IT financial management, vendor negotiations, and building high-performing cross-functional teams that align technology with strategic corporate objectives.
+
+With a portfolio that spans from hands-on AI architecture to executive-level IT governance, Rajeev is positioned to lead organizations through the next wave of digital evolution. Whether optimizing global ERP landscapes or implementing agentic AI workflows, he focuses on creating transparent, value-driven partnerships between IT and the business.
+
+## PROFESSIONAL EXPERIENCE
+### Product Owner & AI Product Architect | Startup | 2025 - 2026
+- Architected and executed the vision for a multi-agent AI system utilizing autonomous financial reasoning, transitioning from conceptual design to a functional MVP.
+- Implemented advanced AI workflows including RAG, COT, and LLMOps to drive data-driven decision-making and product scalability.
+
+### Program Manager ? PMO Setup and SAP S/4 rollout PMO | MSC Cruises (Infosys Consulting AG) | 2024 - 2024
+- Designed a high-efficiency IT governance and PMO framework, targeting a 15% optimization in application portfolios over a three-year horizon.
+- Directed the SAP S/4 Hana ERP PMO, ensuring on-time delivery by managing complex vendor landscapes and internal stakeholders through rigorous risk and financial tracking.
+
+### Project Manager ? Mergers, Divestitures & acquisitions approach and PMO approach | Infosys Consulting AG | 2023 - 2024
+- Authored the organizational point of view and methodology for M&A and divestitures, creating standardized artifacts for global client delivery.
+- Defined business review services and PMO setup strategies to accelerate synergy realization for potential M&A clients.
+
+### Product Owner ? Global Supplier Portal | British American Tobacco (Infosys Consulting AG) | 2022 - 2023
+- Spearheaded the product strategy for a global supplier portal leveraging ServiceNow and AI-based chat, enhancing engagement for 13,000+ suppliers.
+- Delivered over ?300K in annual efficiency gains by integrating Celonis process mining and advanced analytics into the procurement lifecycle.
+
+### Business Development & Product Owner | Rasol Solutions ? IT Consulting | 2019 - 2022
+- Led the development of a structured ERP/CRM/SM web application suite, enabling digital-first operations for small businesses and educational institutes during COVID-19.
+- Managed the full product lifecycle from lead generation and business case preparation to vendor negotiation and final delivery.
+
+### Head IT Governance? IT Finance management & Control | Dufry AG (Avolta) | 2016 - 2019
+- Transformed global IT budgeting (Capex/Opex) processes, implementing TCO transparency and ROI-based prioritization for all technology spending.
+- Identified and realized $800K in savings through rigorous contract lifecycle management and audit-ready intercompany cost distribution models.
+
+### Head IT Governance ? IT Process Maturity | Dufry AG (Avolta) | 2016 - 2019
+- Standardized IT governance across a global footprint using ITIL and COBIT frameworks, significantly improving service reliability and business effectiveness.
+- Consolidated global vendor initiatives to gain economies of scale, establishing a centralized PMO and training international teams on SLA/OLA compliance.
+
+### PMO ? Post Mergers Integrations | Dufry AG (Avolta) | 2014 - 2018
+- Orchestrated the IT integration of WDFG ($3.5Bn) and Nuance Group ($1.5Bn), achieving CHF 120Mn in IT synergies and a CHF 70Mn reduction in operational costs within year one.
+- Reduced the global vendor landscape by 40%, realizing a 15% cost reduction through centralized procurement and application portfolio rationalization.
+
+### IT Service Manager ? Enterprise Service Management ? ServiceNow | Dufry AG (Avolta) | 2014 - 2016
+- Product Owner for the global ServiceNow rollout, reducing IT operational spending by 30% through the automation of 20+ key business processes.
+- Managed the end-to-end implementation of ITSM, ITOM, and ITBM modules using Agile SCRUM, achieving 100% IT service cross-charging transparency.
+
+### Project Manager ? ERP Rollout | Dufry AG (Avolta) | 2012 - 2014
+- Directed the successful rollout of Oracle Finance & Retail across Italy and Brazil, ensuring seamless functional transition from project to support organizations.
+
+### Service Delivery Manager ? ERP (SAP) Business account management | Novartis (Infosys) | 2008 - 2010
+- Provided CIO/CFO advisory services for SAP ERP accounts across five European countries, prioritizing programs based on NPV/IRR and business criticality.
+- Renegotiated vendor contracts and realigned support structures to exceed SLA commitments for mission-critical pharmaceutical operations.
+
+### Engineering Manager / Competence lead | Johnson Controls (Infosys), UK & USA | 2000 - 2008
+- Executed a 6-Sigma design optimization program resulting in $1.5M in savings and established a new plastics business line generating >$3M in annual revenue.
+
+## EDUCATION
+### Digital Excellence Diploma | IMD Lausanne | 2019
+### MBA | Copenhagen Business School | 2012
+### Bachelors of Engineering | Pune University, India | 1998
+### ITIL V3 professional ? IT Service Management | ITIL V3 professional ? IT Service Management | 
+### CGEIT corporate governance in enterprise IT | CGEIT corporate governance in enterprise IT | 
+### PMP professional ? International Project Management | PMP professional ? International Project Management | 
+### SAFe 6.0 | SAFe 6.0 | 
+
+## LANGUAGES
+- Hindi (Level: 5/5)
+- German (Level: 3/5)
+- ENGLISH (Level: 5/5)
+
+## IT SKILLS
+Google AI studio, RAG, COT, MCP, Agentics working, LangGraph, HITL, LLMOps, Memory management, ServiceNow, SAP, Oracle, Microsoft Power BI, Python, React native, Flutter, Java, SQL, NoSQL, Mongo DB, Mobile & Web Development, IT service management, Agile (SCRUM) methodology, Business relationship management, Leadership & team development, Business case preparation, Strategy design & execution, Vendor negotiations & offshore development, Process consolidation and optimization, Organizational change management, Post-merger integrations, Training and people management, ERP implementation
+
+## CERTIFICATIONS
+- ITIL V3 professional ??? IT Service Management
+- CGEIT corporate governance in enterprise IT
+- PMP professional ??? International Project Management
+- SAFe 6.0
+- Digital Execution Program (IMD)
+
+## SKILLS / STRENGTHS
+- AI Product Architecture (Agentic AI & RAG)
+- Post-Merger Integration (PMI) Strategy
+- Global IT Governance & PMO Setup
+- IT Financial Management (Capex/Opex)
+- ServiceNow Platform Ownership
+- Enterprise ERP Implementation (SAP S/4, Oracle)
+- Digital Transformation & Roadmap Design
+- Multi-Vendor Ecosystem Management
+- Agile (SCRUM) & Waterfall Methodologies
+- Business Relationship Management (BRM)
+- Change Management & Organizational Design
+- ROI & Synergy Realization Analysis
+
+  cover_letter                       : Dear Hiring Committee,
+
+I am writing to express my strong interest in the leadership position at your organization. With over 20 years of experience at the intersection of IT strategy, business transformation, and emerging technologies, I have consistently delivered large-scale programs that turn technology into a competitive advantage. My background as an Executive Search Consultant has taught me that the best leaders don?t just manage systems; they orchestrate value.
+
+Throughout my career, I have thrived in complex, high-stakes environments. At Dufry AG, I led the IT post-merger integration for two multi-billion dollar acquisitions, realizing CHF 120M in synergies and reducing operational costs by CHF 70M in a single year. These results were achieved through meticulous application rationalization, vendor centralization, and the implementation of robust IT governance frameworks. My experience with global ERP rollouts and ServiceNow platform ownership further underscores my ability to stabilize and scale enterprise operations.
+
+In recent years, I have pivoted toward the future of technology by serving as an AI Product Architect. I have successfully moved from concept to MVP with multi-agent AI systems capable of autonomous financial reasoning. By combining the rigor of traditional IT management with the agility of modern AI development (including RAG, LLMOps, and Agentic workflows), I help organizations bridge the gap between their legacy foundations and the future of digital innovation.
+
+I am particularly drawn to your company?s mission and believe my unique blend of M&A expertise, financial acumen, and AI architecture makes me a perfect fit for this role. I look forward to the opportunity to discuss how my strategic vision and execution-focused approach can contribute to your team?s continued success.
+
+Sincerely,
+
+Rajeev Sharma
+  cv_path                            : uploads\1\applications\8\Tailored_CV_20260327_193140.pdf
+  cl_path                            : uploads\1\applications\8\Cover_Letter_20260327_193140.pdf
+  generated_at                       : 2026-03-27 18:31:56.436956
+  applied_at                         : 2026-03-27 20:23:03.519989
+  notes                              : 
+[2026-03-27 20:22:59.495378] Starting auto-apply automation...
+[2026-03-27 20:23:03.520007] Successfully applied via automation.
+
+=== ALL APPLIED APPLICATIONS ===
+  id=8  url=https://career.valora.com/en/job/5576/it-strategy-and-transformation-manager-w-m-d
