@@ -891,7 +891,7 @@ async function loadJobSources() {
         sourcesListContent.innerHTML = `
             <div class="alert alert-danger">
                 <i class="fas fa-exclamation-triangle me-2"></i>Error loading sources: ${error.message}
-                <br><small>Make sure the backend server (port 8005) is running.</small>
+                <br><small>Make sure the backend server (port 8010) is running.</small>
                 <div class="mt-2 text-center">
                     <button class="btn btn-outline-danger btn-sm" onclick="loadJobSources()">
                         <i class="fas fa-sync me-2"></i>Retry

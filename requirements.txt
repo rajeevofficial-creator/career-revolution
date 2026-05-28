@@ -49,4 +49,4 @@ cryptography>=41.0.0             # Fernet symmetric encryption for credential st
 
 # Note: After installing, run: playwright install chromium
 # Note: Some agents use simulated data for demonstration
-# Real API keys would be needed for production use
+# Real API keys would be needed for production usejinja2
