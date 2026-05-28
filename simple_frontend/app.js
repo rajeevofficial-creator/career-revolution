@@ -172,7 +172,7 @@ function showUploadModal() {
 // Check API status
 async function checkApiStatus() {
     try {
-        const response = await fetch(`${API_BASE_URL}/`);
+        const response = await fetch(`${API_BASE_URL}/health`);
         if (response.ok) {
             document.getElementById('apiStatusDetail').textContent = 'Backend API: Ready';
             document.querySelector('.api-status').className = 'api-status online';

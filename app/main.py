@@ -184,10 +184,10 @@ def startup_event():
         print("Set GEMINI_API_KEY in .env to enable high-fidelity parsing.")
         print("="*60 + "\n")
 
-# Health check endpoint
-@app.get("/")
+# Health check endpoint (moved off / so StaticFiles can serve index.html at root)
+@app.get("/health")
 async def root():
-    """Root endpoint - API health check."""
+    """Health check endpoint."""
     return {
         "message": "Career Revolution API",
         "version": "1.0.0",
